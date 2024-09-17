@@ -1,0 +1,572 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat|salience|identity|centering
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=___ _________ ____ ________ _ _________ ___ _________ _________ ___ ___________ _________ ___ ____ ____ ____ _ _________ __ ___ _____ _______ _______ ______ _ _ ____ _______ __ ___________ ___ _________ _____ _
+0-3	1-1	___	abstract[1]|abstract[2]|abstract[3]	new[1]|new[2]|new[3]	nonsal[1]|nonsal[2]|nonsal[3]	cf1[1]|cf1[2]|cf1[3]	_	_	_	
+4-13	1-2	_________	abstract[1]|abstract[2]|abstract[3]	new[1]|new[2]|new[3]	nonsal[1]|nonsal[2]|nonsal[3]	cf1[1]|cf1[2]|cf1[3]	_	_	_	
+14-18	1-3	____	abstract[3]|organization[4]|abstract[2]|organization[5]|abstract[1]	new[3]|new[4]|new[2]|new[5]|new[1]	nonsal[3]|nonsal[4]|nonsal[2]|nonsal[5]|nonsal[1]	cf1[3]|cf1[4]|cf1[2]|cf1[5]|cf1[1]	_	_	_	
+19-27	1-4	________	organization[4]|abstract[2]|abstract[1]|abstract[3]	new[4]|new[2]|new[1]|new[3]	nonsal[4]|nonsal[2]|nonsal[1]|nonsal[3]	cf1[4]|cf1[2]|cf1[1]|cf1[3]	_	_	_	
+28-29	1-5	_	abstract[1]|abstract[3]	new[1]|new[3]	nonsal[1]|nonsal[3]	cf1[1]|cf1[3]	_	_	_	
+30-39	1-6	_________	abstract[1]|abstract[3]	new[1]|new[3]	nonsal[1]|nonsal[3]	cf1[1]|cf1[3]	_	_	_	
+40-43	1-7	___	abstract[1]	new[1]	nonsal[1]	cf1[1]	_	_	_	
+44-53	1-8	_________	abstract[1]|abstract[6]	new[1]|new[6]	nonsal[1]|nonsal[6]	cf1[1]|cf1[6]	_	_	_	
+54-63	1-9	_________	abstract[1]|abstract[7]|abstract[6]	new[1]|new[7]|new[6]	nonsal[1]|nonsal[7]|nonsal[6]	cf1[1]|cf1[7]|cf1[6]	_	_	_	
+64-67	1-10	___	_	_	_	_	_	_	_	
+68-79	1-11	___________	_	_	_	_	_	_	_	
+80-89	1-12	_________	_	_	_	_	_	_	_	
+90-93	1-13	___	_	_	_	_	_	_	_	
+94-98	1-14	____	abstract[8]	new[8]	nonsal[8]	cf1[8]	_	_	_	
+99-103	1-15	____	time[9]	new[9]	nonsal[9]	cf1[9]	_	_	_	
+104-108	1-16	____	time[9]	new[9]	nonsal[9]	cf1[9]	_	_	_	
+109-110	1-17	_	_	_	_	_	_	_	_	
+111-120	1-18	_________	_	_	_	_	_	_	_	
+121-123	1-19	__	_	_	_	_	_	_	_	
+124-127	1-20	___	abstract[10]|organization[11]	new[10]|new[11]	nonsal[10]|nonsal[11]	cf1[10]|cf1[11]	_	_	_	
+128-133	1-21	_____	abstract[10]|organization[11]	new[10]|new[11]	nonsal[10]|nonsal[11]	cf1[10]|cf1[11]	_	_	_	
+134-141	1-22	_______	abstract[10]	new[10]	nonsal[10]	cf1[10]	_	_	_	
+142-149	1-23	_______	abstract[10]	new[10]	nonsal[10]	cf1[10]	_	_	_	
+150-156	1-24	______	abstract[10]	new[10]	nonsal[10]	cf1[10]	_	_	_	
+157-158	1-25	_	_	_	_	_	_	_	_	
+159-160	1-26	_	abstract[12]	new[12]	nonsal[12]	cf1[12]	_	_	_	
+161-165	1-27	____	abstract[12]	new[12]	nonsal[12]	cf1[12]	_	_	_	
+166-173	1-28	_______	abstract[12]	new[12]	nonsal[12]	cf1[12]	_	_	_	
+174-176	1-29	__	abstract[12]	new[12]	nonsal[12]	cf1[12]	_	_	_	
+177-188	1-30	___________	abstract[12]|abstract[13]|abstract[14]	new[12]|new[13]|new[14]	nonsal[12]|nonsal[13]|nonsal[14]	cf1[12]|cf1[13]|cf1[14]	_	_	_	
+189-192	1-31	___	abstract[12]|abstract[14]	new[12]|new[14]	nonsal[12]|nonsal[14]	cf1[12]|cf1[14]	_	_	_	
+193-202	1-32	_________	abstract[12]|abstract[15]|abstract[14]	new[12]|new[15]|new[14]	nonsal[12]|nonsal[15]|nonsal[14]	cf1[12]|cf1[15]|cf1[14]	_	_	_	
+203-208	1-33	_____	abstract[16]|abstract[15]|abstract[14]|abstract[12]	new[16]|new[15]|new[14]|new[12]	nonsal[16]|nonsal[15]|nonsal[14]|nonsal[12]	cf1[16]|cf1[15]|cf1[14]|cf1[12]	_	_	_	
+209-210	1-34	_	_	_	_	_	_	_	_	
+
+#Text=________ _____ _ ___________ _____ _ ___ _______ __ ________ ____ _
+211-219	2-1	________	abstract[17]	new[17]	nonsal[17]	cf1[17]	_	_	_	
+220-225	2-2	_____	abstract[17]	new[17]	nonsal[17]	cf1[17]	_	_	_	
+226-227	2-3	_	abstract[17]	new[17]	nonsal[17]	cf1[17]	_	_	_	
+228-239	2-4	___________	abstract[17]	new[17]	nonsal[17]	cf1[17]	_	_	_	
+240-245	2-5	_____	abstract[17]|abstract[18]	new[17]|new[18]	nonsal[17]|nonsal[18]	cf1[17]|cf1[18]	_	_	_	
+246-247	2-6	_	abstract[17]|abstract[18]	new[17]|new[18]	nonsal[17]|nonsal[18]	cf1[17]|cf1[18]	_	_	_	
+248-251	2-7	___	abstract[17]|abstract[18]	new[17]|new[18]	nonsal[17]|nonsal[18]	cf1[17]|cf1[18]	_	_	_	
+252-259	2-8	_______	abstract[17]|abstract[18]	new[17]|new[18]	nonsal[17]|nonsal[18]	cf1[17]|cf1[18]	_	_	_	
+260-262	2-9	__	abstract[17]|abstract[18]	new[17]|new[18]	nonsal[17]|nonsal[18]	cf1[17]|cf1[18]	_	_	_	
+263-271	2-10	________	abstract[17]|abstract[19]|abstract[18]	new[17]|new[19]|new[18]	nonsal[17]|nonsal[19]|nonsal[18]	cf1[17]|cf1[19]|cf1[18]	_	_	_	
+272-276	2-11	____	abstract[17]|abstract[19]|abstract[18]	new[17]|new[19]|new[18]	nonsal[17]|nonsal[19]|nonsal[18]	cf1[17]|cf1[19]|cf1[18]	_	_	_	
+277-278	2-12	_	_	_	_	_	_	_	_	
+
+#Text=_ ____ _______ __ _______ _____ _
+279-280	3-1	_	abstract[20]	new[20]	nonsal[20]	cf1[20]	_	_	_	
+281-285	3-2	____	abstract[20]	new[20]	nonsal[20]	cf1[20]	_	_	_	
+286-293	3-3	_______	abstract[20]	new[20]	nonsal[20]	cf1[20]	_	_	_	
+294-296	3-4	__	abstract[20]	new[20]	nonsal[20]	cf1[20]	_	_	_	
+297-304	3-5	_______	abstract[20]|abstract[21]	new[20]|new[21]	nonsal[20]|nonsal[21]	cf1[20]|cf1[21]	_	_	_	
+305-310	3-6	_____	abstract[20]|abstract[21]	new[20]|new[21]	nonsal[20]|nonsal[21]	cf1[20]|cf1[21]	_	_	_	
+311-312	3-7	_	_	_	_	_	_	_	_	
+
+#Text=___________ _____ _ _____ ___ __ _____ _______ ______ __ _ __ _________ _ ___ ___________ _______ _
+313-324	4-1	___________	organization[22]	new[22]	nonsal[22]	cf1[22]	_	_	_	
+325-330	4-2	_____	organization[22]	new[22]	nonsal[22]	cf1[22]	_	_	_	
+331-332	4-3	_	organization[22]	new[22]	nonsal[22]	cf1[22]	_	_	_	
+333-338	4-4	_____	organization[22]	new[22]	nonsal[22]	cf1[22]	_	_	_	
+339-342	4-5	___	organization[22]	new[22]	nonsal[22]	cf1[22]	_	_	_	
+343-345	4-6	__	organization[22]	new[22]	nonsal[22]	cf1[22]	_	_	_	
+346-351	4-7	_____	organization[22]|abstract[23]	new[22]|new[23]	nonsal[22]|nonsal[23]	cf1[22]|cf1[23]	_	_	_	
+352-359	4-8	_______	organization[22]|abstract[23]	new[22]|new[23]	nonsal[22]|nonsal[23]	cf1[22]|cf1[23]	_	_	_	
+360-366	4-9	______	organization[22]|abstract[23]	new[22]|new[23]	nonsal[22]|nonsal[23]	cf1[22]|cf1[23]	_	_	_	
+367-369	4-10	__	organization[22]|abstract[23]	new[22]|new[23]	nonsal[22]|nonsal[23]	cf1[22]|cf1[23]	_	_	_	
+370-371	4-11	_	abstract[24]|organization[22]|abstract[23]	new[24]|new[22]|new[23]	nonsal[24]|nonsal[22]|nonsal[23]	cf1[24]|cf1[22]|cf1[23]	_	_	_	
+372-374	4-12	__	abstract[24]|organization[22]|abstract[23]	new[24]|new[22]|new[23]	nonsal[24]|nonsal[22]|nonsal[23]	cf1[24]|cf1[22]|cf1[23]	_	_	_	
+375-384	4-13	_________	abstract[24]|organization[22]|abstract[23]	new[24]|new[22]|new[23]	nonsal[24]|nonsal[22]|nonsal[23]	cf1[24]|cf1[22]|cf1[23]	_	_	_	
+385-386	4-14	_	organization[22]|abstract[23]	new[22]|new[23]	nonsal[22]|nonsal[23]	cf1[22]|cf1[23]	_	_	_	
+387-390	4-15	___	organization[22]|abstract[23]	new[22]|new[23]	nonsal[22]|nonsal[23]	cf1[22]|cf1[23]	_	_	_	
+391-402	4-16	___________	organization[22]|abstract[25]|abstract[23]	new[22]|new[25]|new[23]	nonsal[22]|nonsal[25]|nonsal[23]	cf1[22]|cf1[25]|cf1[23]	_	coref	15-18[67_25]	
+403-410	4-17	_______	organization[22]|abstract[25]|abstract[23]	new[22]|new[25]|new[23]	nonsal[22]|nonsal[25]|nonsal[23]	cf1[22]|cf1[25]|cf1[23]	_	_	_	
+411-412	4-18	_	_	_	_	_	_	_	_	
+
+#Text=___ _____ ________ ____ __ ____ _______ ______ ______ _ ___ _______ ________ ___ _
+413-416	5-1	___	organization[26]	new[26]	nonsal[26]	cf1[26]	_	_	_	
+417-422	5-2	_____	organization[26]	new[26]	nonsal[26]	cf1[26]	_	_	_	
+423-431	5-3	________	organization[26]	new[26]	nonsal[26]	cf1[26]	_	_	_	
+432-436	5-4	____	organization[26]	new[26]	nonsal[26]	cf1[26]	_	_	_	
+437-439	5-5	__	organization[26]	new[26]	nonsal[26]	cf1[26]	_	_	_	
+440-444	5-6	____	organization[26]|abstract[27]	new[26]|new[27]	nonsal[26]|nonsal[27]	cf1[26]|cf1[27]	_	_	_	
+445-452	5-7	_______	organization[26]|abstract[27]	new[26]|new[27]	nonsal[26]|nonsal[27]	cf1[26]|cf1[27]	_	_	_	
+453-459	5-8	______	organization[26]|abstract[27]	new[26]|new[27]	nonsal[26]|nonsal[27]	cf1[26]|cf1[27]	_	_	_	
+460-466	5-9	______	organization[26]|abstract[27]	new[26]|new[27]	nonsal[26]|nonsal[27]	cf1[26]|cf1[27]	_	_	_	
+467-468	5-10	_	organization[26]|abstract[27]	new[26]|new[27]	nonsal[26]|nonsal[27]	cf1[26]|cf1[27]	_	_	_	
+469-472	5-11	___	organization[26]|abstract[27]	new[26]|new[27]	nonsal[26]|nonsal[27]	cf1[26]|cf1[27]	_	_	_	
+473-480	5-12	_______	organization[26]|organization[28]|abstract[27]	new[26]|new[28]|new[27]	nonsal[26]|nonsal[28]|nonsal[27]	cf1[26]|cf1[28]|cf1[27]	_	_	_	
+481-489	5-13	________	organization[26]|organization[28]|abstract[27]	new[26]|new[28]|new[27]	nonsal[26]|nonsal[28]|nonsal[27]	cf1[26]|cf1[28]|cf1[27]	_	_	_	
+490-493	5-14	___	organization[26]|organization[28]|abstract[27]	new[26]|new[28]|new[27]	nonsal[26]|nonsal[28]|nonsal[27]	cf1[26]|cf1[28]|cf1[27]	_	_	_	
+494-495	5-15	_	_	_	_	_	_	_	_	
+
+#Text=_______ __________ ___ __ ___ _______ _____ _ ______ _ ___ _____ ______ ______ _____ _ __ _
+496-503	6-1	_______	organization[29]	new[29]	nonsal[29]	cf1[29]	_	_	_	
+504-514	6-2	__________	organization[29]	new[29]	nonsal[29]	cf1[29]	_	_	_	
+515-518	6-3	___	organization[29]	new[29]	nonsal[29]	cf1[29]	_	_	_	
+519-521	6-4	__	organization[29]	new[29]	nonsal[29]	cf1[29]	_	_	_	
+522-525	6-5	___	organization[29]|abstract[30]	new[29]|new[30]	nonsal[29]|nonsal[30]	cf1[29]|cf1[30]	_	_	_	
+526-533	6-6	_______	organization[29]|abstract[30]	new[29]|new[30]	nonsal[29]|nonsal[30]	cf1[29]|cf1[30]	_	_	_	
+534-539	6-7	_____	organization[29]|abstract[31]|abstract[30]	new[29]|new[31]|new[30]	nonsal[29]|nonsal[31]|nonsal[30]	cf1[29]|cf1[31]|cf1[30]	_	_	_	
+540-541	6-8	_	organization[29]|abstract[31]|abstract[30]	new[29]|new[31]|new[30]	nonsal[29]|nonsal[31]|nonsal[30]	cf1[29]|cf1[31]|cf1[30]	_	_	_	
+542-548	6-9	______	organization[29]|abstract[30]	new[29]|new[30]	nonsal[29]|nonsal[30]	cf1[29]|cf1[30]	_	_	_	
+549-550	6-10	_	organization[29]|abstract[30]	new[29]|new[30]	nonsal[29]|nonsal[30]	cf1[29]|cf1[30]	_	_	_	
+551-554	6-11	___	organization[29]|abstract[30]	new[29]|new[30]	nonsal[29]|nonsal[30]	cf1[29]|cf1[30]	_	_	_	
+555-560	6-12	_____	organization[29]|organization[32]|abstract[30]	new[29]|new[32]|new[30]	nonsal[29]|nonsal[32]|nonsal[30]	cf1[29]|cf1[32]|cf1[30]	_	_	_	
+561-567	6-13	______	organization[29]|organization[32]|abstract[30]	new[29]|new[32]|new[30]	nonsal[29]|nonsal[32]|nonsal[30]	cf1[29]|cf1[32]|cf1[30]	_	_	_	
+568-574	6-14	______	organization[29]|organization[32]|abstract[30]	new[29]|new[32]|new[30]	nonsal[29]|nonsal[32]|nonsal[30]	cf1[29]|cf1[32]|cf1[30]	_	_	_	
+575-580	6-15	_____	organization[29]|organization[32]|abstract[30]	new[29]|new[32]|new[30]	nonsal[29]|nonsal[32]|nonsal[30]	cf1[29]|cf1[32]|cf1[30]	_	_	_	
+581-582	6-16	_	organization[29]|organization[32]|abstract[30]	new[29]|new[32]|new[30]	nonsal[29]|nonsal[32]|nonsal[30]	cf1[29]|cf1[32]|cf1[30]	_	_	_	
+583-585	6-17	__	organization[29]|organization[32]|abstract[30]	new[29]|new[32]|new[30]	nonsal[29]|nonsal[32]|nonsal[30]	cf1[29]|cf1[32]|cf1[30]	_	_	_	
+586-587	6-18	_	_	_	_	_	_	_	_	
+
+#Text=___________ _____________ _____ __ _ ___ _______ _ ____ ______ _ ______ _____ ______ _____ _ ___ _______ _____ _______ _______ _
+588-599	7-1	___________	organization[33]	new[33]	nonsal[33]	cf1[33]	_	_	_	
+600-613	7-2	_____________	organization[33]	new[33]	nonsal[33]	cf1[33]	_	_	_	
+614-619	7-3	_____	organization[33]	new[33]	nonsal[33]	cf1[33]	_	_	_	
+620-622	7-4	__	organization[33]	new[33]	nonsal[33]	cf1[33]	_	_	_	
+623-624	7-5	_	organization[33]|abstract[34]	new[33]|new[34]	nonsal[33]|nonsal[34]	cf1[33]|cf1[34]	_	_	_	
+625-628	7-6	___	organization[33]|abstract[34]	new[33]|new[34]	nonsal[33]|nonsal[34]	cf1[33]|cf1[34]	_	_	_	
+629-636	7-7	_______	organization[33]|abstract[34]	new[33]|new[34]	nonsal[33]|nonsal[34]	cf1[33]|cf1[34]	_	_	_	
+637-638	7-8	_	organization[33]|abstract[34]	new[33]|new[34]	nonsal[33]|nonsal[34]	cf1[33]|cf1[34]	_	_	_	
+639-643	7-9	____	abstract[35]|organization[33]|abstract[34]	new[35]|new[33]|new[34]	nonsal[35]|nonsal[33]|nonsal[34]	cf1[35]|cf1[33]|cf1[34]	_	_	_	
+644-650	7-10	______	abstract[35]|organization[33]|abstract[34]	new[35]|new[33]|new[34]	nonsal[35]|nonsal[33]|nonsal[34]	cf1[35]|cf1[33]|cf1[34]	_	_	_	
+651-652	7-11	_	organization[33]|abstract[34]	new[33]|new[34]	nonsal[33]|nonsal[34]	cf1[33]|cf1[34]	_	_	_	
+653-659	7-12	______	organization[33]|abstract[36]|abstract[34]	new[33]|new[36]|new[34]	nonsal[33]|nonsal[36]|nonsal[34]	cf1[33]|cf1[36]|cf1[34]	_	_	_	
+660-665	7-13	_____	organization[33]|abstract[36]|abstract[34]	new[33]|new[36]|new[34]	nonsal[33]|nonsal[36]|nonsal[34]	cf1[33]|cf1[36]|cf1[34]	_	_	_	
+666-672	7-14	______	organization[33]|abstract[36]|abstract[34]	new[33]|new[36]|new[34]	nonsal[33]|nonsal[36]|nonsal[34]	cf1[33]|cf1[36]|cf1[34]	_	_	_	
+673-678	7-15	_____	organization[33]|abstract[34]	new[33]|new[34]	nonsal[33]|nonsal[34]	cf1[33]|cf1[34]	_	_	_	
+679-680	7-16	_	organization[33]|abstract[34]	new[33]|new[34]	nonsal[33]|nonsal[34]	cf1[33]|cf1[34]	_	_	_	
+681-684	7-17	___	organization[33]|abstract[34]	new[33]|new[34]	nonsal[33]|nonsal[34]	cf1[33]|cf1[34]	_	_	_	
+685-692	7-18	_______	organization[33]|organization[37]|abstract[34]	new[33]|new[37]|new[34]	nonsal[33]|nonsal[37]|nonsal[34]	cf1[33]|cf1[37]|cf1[34]	_	coref	9-11[43_37]	
+693-698	7-19	_____	organization[33]|organization[37]|abstract[34]	new[33]|new[37]|new[34]	nonsal[33]|nonsal[37]|nonsal[34]	cf1[33]|cf1[37]|cf1[34]	_	_	_	
+699-706	7-20	_______	organization[33]|organization[37]|abstract[34]	new[33]|new[37]|new[34]	nonsal[33]|nonsal[37]|nonsal[34]	cf1[33]|cf1[37]|cf1[34]	_	_	_	
+707-714	7-21	_______	organization[33]|organization[37]|abstract[34]	new[33]|new[37]|new[34]	nonsal[33]|nonsal[37]|nonsal[34]	cf1[33]|cf1[37]|cf1[34]	_	_	_	
+715-716	7-22	_	_	_	_	_	_	_	_	
+
+#Text=_____ _________ _____ __ __ _______ ______ ______ _ ___ _______ _ _____ _ __ _
+717-722	8-1	_____	organization[38]	new[38]	nonsal[38]	cf1[38]	_	_	_	
+723-732	8-2	_________	organization[38]	new[38]	nonsal[38]	cf1[38]	_	_	_	
+733-738	8-3	_____	organization[38]	new[38]	nonsal[38]	cf1[38]	_	_	_	
+739-741	8-4	__	organization[38]	new[38]	nonsal[38]	cf1[38]	_	_	_	
+742-744	8-5	__	organization[38]|abstract[39]	new[38]|new[39]	nonsal[38]|nonsal[39]	cf1[38]|cf1[39]	_	_	_	
+745-752	8-6	_______	organization[38]|abstract[39]	new[38]|new[39]	nonsal[38]|nonsal[39]	cf1[38]|cf1[39]	_	_	_	
+753-759	8-7	______	organization[38]|abstract[39]	new[38]|new[39]	nonsal[38]|nonsal[39]	cf1[38]|cf1[39]	_	_	_	
+760-766	8-8	______	organization[38]|abstract[39]	new[38]|new[39]	nonsal[38]|nonsal[39]	cf1[38]|cf1[39]	_	_	_	
+767-768	8-9	_	organization[38]|abstract[39]	new[38]|new[39]	nonsal[38]|nonsal[39]	cf1[38]|cf1[39]	_	_	_	
+769-772	8-10	___	organization[38]|abstract[39]	new[38]|new[39]	nonsal[38]|nonsal[39]	cf1[38]|cf1[39]	_	_	_	
+773-780	8-11	_______	organization[38]|organization[40]|abstract[39]	new[38]|new[40]|new[39]	nonsal[38]|nonsal[40]|nonsal[39]	cf1[38]|cf1[40]|cf1[39]	_	coref	13-9[55_40]	
+781-782	8-12	_	organization[38]|organization[40]|abstract[39]	new[38]|new[40]|new[39]	nonsal[38]|nonsal[40]|nonsal[39]	cf1[38]|cf1[40]|cf1[39]	_	_	_	
+783-788	8-13	_____	organization[38]|organization[40]|abstract[39]	new[38]|new[40]|new[39]	nonsal[38]|nonsal[40]|nonsal[39]	cf1[38]|cf1[40]|cf1[39]	_	_	_	
+789-790	8-14	_	organization[38]|organization[40]|abstract[39]	new[38]|new[40]|new[39]	nonsal[38]|nonsal[40]|nonsal[39]	cf1[38]|cf1[40]|cf1[39]	_	_	_	
+791-793	8-15	__	organization[38]|organization[40]|abstract[39]	new[38]|new[40]|new[39]	nonsal[38]|nonsal[40]|nonsal[39]	cf1[38]|cf1[40]|cf1[39]	_	_	_	
+794-795	8-16	_	_	_	_	_	_	_	_	
+
+#Text=_______ _____ __ _ ___ _______ ___________ __________ _ ___ _______ _____ _
+796-803	9-1	_______	organization[41]	new[41]	nonsal[41]	cf1[41]	_	_	_	
+804-809	9-2	_____	organization[41]	new[41]	nonsal[41]	cf1[41]	_	_	_	
+810-812	9-3	__	organization[41]	new[41]	nonsal[41]	cf1[41]	_	_	_	
+813-814	9-4	_	organization[41]|abstract[42]	new[41]|new[42]	nonsal[41]|nonsal[42]	cf1[41]|cf1[42]	_	_	_	
+815-818	9-5	___	organization[41]|abstract[42]	new[41]|new[42]	nonsal[41]|nonsal[42]	cf1[41]|cf1[42]	_	_	_	
+819-826	9-6	_______	organization[41]|abstract[42]	new[41]|new[42]	nonsal[41]|nonsal[42]	cf1[41]|cf1[42]	_	_	_	
+827-838	9-7	___________	organization[41]|abstract[42]	new[41]|new[42]	nonsal[41]|nonsal[42]	cf1[41]|cf1[42]	_	_	_	
+839-849	9-8	__________	organization[41]|abstract[42]	new[41]|new[42]	nonsal[41]|nonsal[42]	cf1[41]|cf1[42]	_	_	_	
+850-851	9-9	_	organization[41]|abstract[42]	new[41]|new[42]	nonsal[41]|nonsal[42]	cf1[41]|cf1[42]	_	_	_	
+852-855	9-10	___	organization[41]|abstract[42]	new[41]|new[42]	nonsal[41]|nonsal[42]	cf1[41]|cf1[42]	_	_	_	
+856-863	9-11	_______	organization[43]|abstract[42]|organization[41]	giv[43]|new[42]|new[41]	nonsal[43]|nonsal[42]|nonsal[41]	cf1[43]|cf1[42]|cf1[41]	_	coref	10-10[46_43]	
+864-869	9-12	_____	organization[43]|abstract[42]|organization[41]	giv[43]|new[42]|new[41]	nonsal[43]|nonsal[42]|nonsal[41]	cf1[43]|cf1[42]|cf1[41]	_	_	_	
+870-871	9-13	_	_	_	_	_	_	_	_	
+
+#Text=___ __________ __ ___ _______ ______ ______ _ ___ _______ _____ _
+872-875	10-1	___	organization[44]	new[44]	nonsal[44]	cf1[44]	_	_	_	
+876-886	10-2	__________	organization[44]	new[44]	nonsal[44]	cf1[44]	_	_	_	
+887-889	10-3	__	organization[44]	new[44]	nonsal[44]	cf1[44]	_	_	_	
+890-893	10-4	___	abstract[45]|organization[44]	new[45]|new[44]	nonsal[45]|nonsal[44]	cf1[45]|cf1[44]	_	_	_	
+894-901	10-5	_______	abstract[45]|organization[44]	new[45]|new[44]	nonsal[45]|nonsal[44]	cf1[45]|cf1[44]	_	_	_	
+902-908	10-6	______	abstract[45]|organization[44]	new[45]|new[44]	nonsal[45]|nonsal[44]	cf1[45]|cf1[44]	_	_	_	
+909-915	10-7	______	abstract[45]|organization[44]	new[45]|new[44]	nonsal[45]|nonsal[44]	cf1[45]|cf1[44]	_	_	_	
+916-917	10-8	_	abstract[45]|organization[44]	new[45]|new[44]	nonsal[45]|nonsal[44]	cf1[45]|cf1[44]	_	_	_	
+918-921	10-9	___	abstract[45]|organization[44]	new[45]|new[44]	nonsal[45]|nonsal[44]	cf1[45]|cf1[44]	_	_	_	
+922-929	10-10	_______	organization[46]|abstract[45]|organization[44]	giv[46]|new[45]|new[44]	nonsal[46]|nonsal[45]|nonsal[44]	cf1[46]|cf1[45]|cf1[44]	_	coref	21-22[131_46]	
+930-935	10-11	_____	organization[46]|abstract[45]|organization[44]	giv[46]|new[45]|new[44]	nonsal[46]|nonsal[45]|nonsal[44]	cf1[46]|cf1[45]|cf1[44]	_	_	_	
+936-937	10-12	_	_	_	_	_	_	_	_	
+
+#Text=_______ _________ __________ __ ___ _______ ______ ______ _ ___ ___________ ___ _
+938-945	11-1	_______	organization[47]	new[47]	nonsal[47]	cf1[47]	_	_	_	
+946-955	11-2	_________	organization[47]	new[47]	nonsal[47]	cf1[47]	_	_	_	
+956-966	11-3	__________	organization[47]	new[47]	nonsal[47]	cf1[47]	_	_	_	
+967-969	11-4	__	organization[47]	new[47]	nonsal[47]	cf1[47]	_	_	_	
+970-973	11-5	___	organization[47]|abstract[48]	new[47]|new[48]	nonsal[47]|nonsal[48]	cf1[47]|cf1[48]	_	_	_	
+974-981	11-6	_______	organization[47]|abstract[48]	new[47]|new[48]	nonsal[47]|nonsal[48]	cf1[47]|cf1[48]	_	_	_	
+982-988	11-7	______	organization[47]|abstract[48]	new[47]|new[48]	nonsal[47]|nonsal[48]	cf1[47]|cf1[48]	_	_	_	
+989-995	11-8	______	organization[47]|abstract[48]	new[47]|new[48]	nonsal[47]|nonsal[48]	cf1[47]|cf1[48]	_	_	_	
+996-997	11-9	_	organization[47]|abstract[48]	new[47]|new[48]	nonsal[47]|nonsal[48]	cf1[47]|cf1[48]	_	_	_	
+998-1001	11-10	___	organization[47]|abstract[48]	new[47]|new[48]	nonsal[47]|nonsal[48]	cf1[47]|cf1[48]	_	_	_	
+1002-1013	11-11	___________	organization[47]|abstract[48]|organization[49]	new[47]|new[48]|new[49]	nonsal[47]|nonsal[48]|nonsal[49]	cf1[47]|cf1[48]|cf1[49]	_	coref	19-18[111_49]	
+1014-1017	11-12	___	organization[47]|abstract[48]|organization[49]	new[47]|new[48]|new[49]	nonsal[47]|nonsal[48]|nonsal[49]	cf1[47]|cf1[48]|cf1[49]	_	_	_	
+1018-1019	11-13	_	_	_	_	_	_	_	_	
+
+#Text=________ _______ _____ ____ __ ___ _______ ______ ______ _ ___ ____ ______ _______ _______ _
+1020-1028	12-1	________	organization[50]	new[50]	nonsal[50]	cf1[50]	_	_	_	
+1029-1036	12-2	_______	organization[50]	new[50]	nonsal[50]	cf1[50]	_	_	_	
+1037-1042	12-3	_____	organization[50]	new[50]	nonsal[50]	cf1[50]	_	_	_	
+1043-1047	12-4	____	organization[50]	new[50]	nonsal[50]	cf1[50]	_	_	_	
+1048-1050	12-5	__	organization[50]	new[50]	nonsal[50]	cf1[50]	_	_	_	
+1051-1054	12-6	___	organization[50]|abstract[51]	new[50]|new[51]	nonsal[50]|nonsal[51]	cf1[50]|cf1[51]	_	_	_	
+1055-1062	12-7	_______	organization[50]|abstract[51]	new[50]|new[51]	nonsal[50]|nonsal[51]	cf1[50]|cf1[51]	_	_	_	
+1063-1069	12-8	______	organization[50]|abstract[51]	new[50]|new[51]	nonsal[50]|nonsal[51]	cf1[50]|cf1[51]	_	_	_	
+1070-1076	12-9	______	organization[50]|abstract[51]	new[50]|new[51]	nonsal[50]|nonsal[51]	cf1[50]|cf1[51]	_	_	_	
+1077-1078	12-10	_	organization[50]|abstract[51]	new[50]|new[51]	nonsal[50]|nonsal[51]	cf1[50]|cf1[51]	_	_	_	
+1079-1082	12-11	___	organization[50]|abstract[51]	new[50]|new[51]	nonsal[50]|nonsal[51]	cf1[50]|cf1[51]	_	_	_	
+1083-1087	12-12	____	organization[50]|abstract[51]|organization[52]	new[50]|new[51]|new[52]	nonsal[50]|nonsal[51]|nonsal[52]	cf1[50]|cf1[51]|cf1[52]	_	_	_	
+1088-1094	12-13	______	organization[50]|abstract[51]|organization[52]	new[50]|new[51]|new[52]	nonsal[50]|nonsal[51]|nonsal[52]	cf1[50]|cf1[51]|cf1[52]	_	_	_	
+1095-1102	12-14	_______	organization[50]|abstract[51]|organization[52]	new[50]|new[51]|new[52]	nonsal[50]|nonsal[51]|nonsal[52]	cf1[50]|cf1[51]|cf1[52]	_	_	_	
+1103-1110	12-15	_______	organization[50]|abstract[51]|organization[52]	new[50]|new[51]|new[52]	nonsal[50]|nonsal[51]|nonsal[52]	cf1[50]|cf1[51]|cf1[52]	_	_	_	
+1111-1112	12-16	_	_	_	_	_	_	_	_	
+
+#Text=_______ _____ __ _________ ______ ______ _ ___ _______ _____ _
+1113-1120	13-1	_______	organization[53]	new[53]	nonsal[53]	cf1[53]	_	_	_	
+1121-1126	13-2	_____	organization[53]	new[53]	nonsal[53]	cf1[53]	_	_	_	
+1127-1129	13-3	__	organization[53]	new[53]	nonsal[53]	cf1[53]	_	_	_	
+1130-1139	13-4	_________	abstract[54]|organization[53]	new[54]|new[53]	nonsal[54]|nonsal[53]	cf1[54]|cf1[53]	_	_	_	
+1140-1146	13-5	______	abstract[54]|organization[53]	new[54]|new[53]	nonsal[54]|nonsal[53]	cf1[54]|cf1[53]	_	_	_	
+1147-1153	13-6	______	abstract[54]|organization[53]	new[54]|new[53]	nonsal[54]|nonsal[53]	cf1[54]|cf1[53]	_	_	_	
+1154-1155	13-7	_	abstract[54]|organization[53]	new[54]|new[53]	nonsal[54]|nonsal[53]	cf1[54]|cf1[53]	_	_	_	
+1156-1159	13-8	___	abstract[54]|organization[53]	new[54]|new[53]	nonsal[54]|nonsal[53]	cf1[54]|cf1[53]	_	_	_	
+1160-1167	13-9	_______	organization[55]|abstract[54]|organization[53]	giv[55]|new[54]|new[53]	nonsal[55]|nonsal[54]|nonsal[53]	cf1[55]|cf1[54]|cf1[53]	_	_	_	
+1168-1173	13-10	_____	organization[55]|abstract[54]|organization[53]	giv[55]|new[54]|new[53]	nonsal[55]|nonsal[54]|nonsal[53]	cf1[55]|cf1[54]|cf1[53]	_	_	_	
+1174-1175	13-11	_	_	_	_	_	_	_	_	
+
+#Text=_____________ ____ __ ___ _______ ______ ______ _ ___ __________ __________ _
+1176-1189	14-1	_____________	organization[56]	new[56]	nonsal[56]	cf1[56]	_	_	_	
+1190-1194	14-2	____	organization[56]	new[56]	nonsal[56]	cf1[56]	_	_	_	
+1195-1197	14-3	__	organization[56]	new[56]	nonsal[56]	cf1[56]	_	_	_	
+1198-1201	14-4	___	organization[56]|abstract[57]	new[56]|new[57]	nonsal[56]|nonsal[57]	cf1[56]|cf1[57]	_	_	_	
+1202-1209	14-5	_______	organization[56]|abstract[57]	new[56]|new[57]	nonsal[56]|nonsal[57]	cf1[56]|cf1[57]	_	_	_	
+1210-1216	14-6	______	organization[56]|abstract[57]	new[56]|new[57]	nonsal[56]|nonsal[57]	cf1[56]|cf1[57]	_	_	_	
+1217-1223	14-7	______	organization[56]|abstract[57]	new[56]|new[57]	nonsal[56]|nonsal[57]	cf1[56]|cf1[57]	_	_	_	
+1224-1225	14-8	_	organization[56]|abstract[57]	new[56]|new[57]	nonsal[56]|nonsal[57]	cf1[56]|cf1[57]	_	_	_	
+1226-1229	14-9	___	organization[56]|abstract[57]	new[56]|new[57]	nonsal[56]|nonsal[57]	cf1[56]|cf1[57]	_	_	_	
+1230-1240	14-10	__________	organization[56]|abstract[57]|organization[58]	new[56]|new[57]|new[58]	nonsal[56]|nonsal[57]|nonsal[58]	cf1[56]|cf1[57]|cf1[58]	_	_	_	
+1241-1251	14-11	__________	organization[56]|abstract[57]|organization[58]	new[56]|new[57]|new[58]	nonsal[56]|nonsal[57]|nonsal[58]	cf1[56]|cf1[57]|cf1[58]	_	_	_	
+1252-1253	14-12	_	_	_	_	_	_	_	_	
+
+#Text=______ __ _ ___ _______ __ _______ __________ ________ _ ___ _____ _ ______ ____ _ ___ ___________ ___ _
+1254-1260	15-1	______	organization[59]	new[59]	nonsal[59]	cf1[59]	_	_	_	
+1261-1263	15-2	__	organization[59]	new[59]	nonsal[59]	cf1[59]	_	_	_	
+1264-1265	15-3	_	abstract[60]|organization[59]	new[60]|new[59]	nonsal[60]|nonsal[59]	cf1[60]|cf1[59]	_	_	_	
+1266-1269	15-4	___	abstract[60]|organization[59]	new[60]|new[59]	nonsal[60]|nonsal[59]	cf1[60]|cf1[59]	_	_	_	
+1270-1277	15-5	_______	abstract[60]|organization[59]	new[60]|new[59]	nonsal[60]|nonsal[59]	cf1[60]|cf1[59]	_	_	_	
+1278-1280	15-6	__	abstract[60]|organization[59]	new[60]|new[59]	nonsal[60]|nonsal[59]	cf1[60]|cf1[59]	_	_	_	
+1281-1288	15-7	_______	abstract[61]|organization[59]|abstract[60]|abstract[62]|person[63]	new[61]|new[59]|new[60]|new[62]|new[63]	nonsal[61]|nonsal[59]|nonsal[60]|nonsal[62]|nonsal[63]	cf1[61]|cf1[59]|cf1[60]|cf1[62]|cf1[63]	_	coref	16-10[73_61]	
+1289-1299	15-8	__________	abstract[61]|organization[59]|abstract[60]|abstract[62]|person[63]	new[61]|new[59]|new[60]|new[62]|new[63]	nonsal[61]|nonsal[59]|nonsal[60]|nonsal[62]|nonsal[63]	cf1[61]|cf1[59]|cf1[60]|cf1[62]|cf1[63]	_	_	_	
+1300-1308	15-9	________	abstract[60]|abstract[62]|person[63]|organization[59]	new[60]|new[62]|new[63]|new[59]	nonsal[60]|nonsal[62]|nonsal[63]|nonsal[59]	cf1[60]|cf1[62]|cf1[63]|cf1[59]	_	_	_	
+1309-1310	15-10	_	abstract[60]|abstract[62]|person[63]|organization[59]	new[60]|new[62]|new[63]|new[59]	nonsal[60]|nonsal[62]|nonsal[63]|nonsal[59]	cf1[60]|cf1[62]|cf1[63]|cf1[59]	_	_	_	
+1311-1314	15-11	___	abstract[60]|abstract[62]|abstract[64]|organization[59]	new[60]|new[62]|new[64]|new[59]	nonsal[60]|nonsal[62]|nonsal[64]|nonsal[59]	cf1[60]|cf1[62]|cf1[64]|cf1[59]	_	coref	16-12[75_64]	
+1315-1320	15-12	_____	abstract[60]|abstract[62]|organization[59]	new[60]|new[62]|new[59]	nonsal[60]|nonsal[62]|nonsal[59]	cf1[60]|cf1[62]|cf1[59]	_	_	_	
+1321-1322	15-13	_	abstract[60]|abstract[62]|organization[59]	new[60]|new[62]|new[59]	nonsal[60]|nonsal[62]|nonsal[59]	cf1[60]|cf1[62]|cf1[59]	_	_	_	
+1323-1329	15-14	______	abstract[60]|abstract[62]|abstract[65]|organization[59]	new[60]|new[62]|new[65]|new[59]	nonsal[60]|nonsal[62]|nonsal[65]|nonsal[59]	cf1[60]|cf1[62]|cf1[65]|cf1[59]	_	_	_	
+1330-1334	15-15	____	abstract[65]|time[66]|organization[59]|abstract[60]|abstract[62]	new[65]|new[66]|new[59]|new[60]|new[62]	nonsal[65]|nonsal[66]|nonsal[59]|nonsal[60]|nonsal[62]	cf1[65]|cf1[66]|cf1[59]|cf1[60]|cf1[62]	_	coref	17-13[84_66]	
+1335-1336	15-16	_	abstract[60]|abstract[62]|organization[59]	new[60]|new[62]|new[59]	nonsal[60]|nonsal[62]|nonsal[59]	cf1[60]|cf1[62]|cf1[59]	_	_	_	
+1337-1340	15-17	___	abstract[60]|abstract[62]|organization[59]	new[60]|new[62]|new[59]	nonsal[60]|nonsal[62]|nonsal[59]	cf1[60]|cf1[62]|cf1[59]	_	_	_	
+1341-1352	15-18	___________	abstract[60]|abstract[62]|abstract[67]|organization[59]	new[60]|new[62]|giv[67]|new[59]	nonsal[60]|nonsal[62]|nonsal[67]|nonsal[59]	cf1[60]|cf1[62]|cf1[67]|cf1[59]	_	coref	16-21[77_67]	
+1353-1356	15-19	___	abstract[60]|abstract[62]|abstract[67]|organization[59]	new[60]|new[62]|giv[67]|new[59]	nonsal[60]|nonsal[62]|nonsal[67]|nonsal[59]	cf1[60]|cf1[62]|cf1[67]|cf1[59]	_	_	_	
+1357-1358	15-20	_	_	_	_	_	_	_	_	
+
+#Text=__________ _ ____ __ _ ___ _______ __ ____ _______ __________ ___ _______ _____ _ ______ _____ _ _ ___ ___________ ___ _
+1359-1369	16-1	__________	place[68]	new[68]	nonsal[68]	cf1[68]	_	_	_	
+1370-1371	16-2	_	place[68]	new[68]	nonsal[68]	cf1[68]	_	_	_	
+1372-1376	16-3	____	abstract[69]|place[68]	new[69]|new[68]	nonsal[69]|nonsal[68]	cf1[69]|cf1[68]	_	_	_	
+1377-1379	16-4	__	place[68]	new[68]	nonsal[68]	cf1[68]	_	_	_	
+1380-1381	16-5	_	place[68]|abstract[70]	new[68]|new[70]	nonsal[68]|nonsal[70]	cf1[68]|cf1[70]	_	_	_	
+1382-1385	16-6	___	place[68]|abstract[70]	new[68]|new[70]	nonsal[68]|nonsal[70]	cf1[68]|cf1[70]	_	_	_	
+1386-1393	16-7	_______	place[68]|abstract[70]	new[68]|new[70]	nonsal[68]|nonsal[70]	cf1[68]|cf1[70]	_	_	_	
+1394-1396	16-8	__	place[68]|abstract[70]	new[68]|new[70]	nonsal[68]|nonsal[70]	cf1[68]|cf1[70]	_	_	_	
+1397-1401	16-9	____	time[71]|abstract[70]|abstract[72]|place[68]	new[71]|new[70]|new[72]|new[68]	nonsal[71]|nonsal[70]|nonsal[72]|nonsal[68]	cf1[71]|cf1[70]|cf1[72]|cf1[68]	_	_	_	
+1402-1409	16-10	_______	abstract[72]|abstract[70]|abstract[73]|place[68]	new[72]|new[70]|giv[73]|new[68]	nonsal[72]|nonsal[70]|nonsal[73]|nonsal[68]	cf1[72]|cf1[70]|cf1[73]|cf1[68]	_	coref	20-7[115_73]	
+1410-1420	16-11	__________	abstract[72]|abstract[70]|abstract[73]|place[68]	new[72]|new[70]|giv[73]|new[68]	nonsal[72]|nonsal[70]|nonsal[73]|nonsal[68]	cf1[72]|cf1[70]|cf1[73]|cf1[68]	_	_	_	
+1421-1424	16-12	___	place[68]|abstract[74]|abstract[75]|abstract[70]|abstract[72]	new[68]|new[74]|giv[75]|new[70]|new[72]	nonsal[68]|nonsal[74]|nonsal[75]|nonsal[70]|nonsal[72]	cf1[68]|cf1[74]|cf1[75]|cf1[70]|cf1[72]	_	coref	18-17[97_75]	
+1425-1432	16-13	_______	abstract[72]|abstract[70]|abstract[74]|place[68]	new[72]|new[70]|new[74]|new[68]	nonsal[72]|nonsal[70]|nonsal[74]|nonsal[68]	cf1[72]|cf1[70]|cf1[74]|cf1[68]	_	_	_	
+1433-1438	16-14	_____	abstract[72]|abstract[70]|place[68]	new[72]|new[70]|new[68]	nonsal[72]|nonsal[70]|nonsal[68]	cf1[72]|cf1[70]|cf1[68]	_	_	_	
+1439-1440	16-15	_	abstract[72]|abstract[70]|place[68]	new[72]|new[70]|new[68]	nonsal[72]|nonsal[70]|nonsal[68]	cf1[72]|cf1[70]|cf1[68]	_	_	_	
+1441-1447	16-16	______	abstract[72]|abstract[70]|abstract[76]|place[68]	new[72]|new[70]|new[76]|new[68]	nonsal[72]|nonsal[70]|nonsal[76]|nonsal[68]	cf1[72]|cf1[70]|cf1[76]|cf1[68]	_	_	_	
+1448-1453	16-17	_____	abstract[72]|abstract[70]|abstract[76]|place[68]	new[72]|new[70]|new[76]|new[68]	nonsal[72]|nonsal[70]|nonsal[76]|nonsal[68]	cf1[72]|cf1[70]|cf1[76]|cf1[68]	_	_	_	
+1454-1455	16-18	_	abstract[72]|abstract[70]|place[68]	new[72]|new[70]|new[68]	nonsal[72]|nonsal[70]|nonsal[68]	cf1[72]|cf1[70]|cf1[68]	_	_	_	
+1456-1457	16-19	_	place[68]|abstract[70]	new[68]|new[70]	nonsal[68]|nonsal[70]	cf1[68]|cf1[70]	_	_	_	
+1458-1461	16-20	___	place[68]|abstract[70]	new[68]|new[70]	nonsal[68]|nonsal[70]	cf1[68]|cf1[70]	_	_	_	
+1462-1473	16-21	___________	abstract[77]|abstract[70]|place[68]	giv[77]|new[70]|new[68]	nonsal[77]|nonsal[70]|nonsal[68]	cf1[77]|cf1[70]|cf1[68]	_	coref	17-22[87_77]	
+1474-1477	16-22	___	abstract[77]|abstract[70]|place[68]	giv[77]|new[70]|new[68]	nonsal[77]|nonsal[70]|nonsal[68]	cf1[77]|cf1[70]|cf1[68]	_	_	_	
+1478-1479	16-23	_	_	_	_	_	_	_	_	
+
+#Text=________ ______ ______ _________ __ _ __________ __ ______ _________ _____ _ ____ ______ _ _ ____ __________ _ _ ___ ___________ ___ _
+1480-1488	17-1	________	organization[78]	new[78]	nonsal[78]	cf1[78]	_	_	_	
+1489-1495	17-2	______	organization[78]	new[78]	nonsal[78]	cf1[78]	_	_	_	
+1496-1502	17-3	______	organization[78]	new[78]	nonsal[78]	cf1[78]	_	_	_	
+1503-1512	17-4	_________	organization[78]	new[78]	nonsal[78]	cf1[78]	_	_	_	
+1513-1515	17-5	__	organization[78]	new[78]	nonsal[78]	cf1[78]	_	_	_	
+1516-1517	17-6	_	organization[78]|abstract[79]	new[78]|new[79]	nonsal[78]|nonsal[79]	cf1[78]|cf1[79]	_	_	_	
+1518-1528	17-7	__________	organization[78]|abstract[79]	new[78]|new[79]	nonsal[78]|nonsal[79]	cf1[78]|cf1[79]	_	_	_	
+1529-1531	17-8	__	organization[78]|abstract[79]	new[78]|new[79]	nonsal[78]|nonsal[79]	cf1[78]|cf1[79]	_	_	_	
+1532-1538	17-9	______	organization[78]|abstract[80]|organization[81]|abstract[82]|abstract[79]	new[78]|new[80]|new[81]|new[82]|new[79]	nonsal[78]|nonsal[80]|nonsal[81]|nonsal[82]|nonsal[79]	cf1[78]|cf1[80]|cf1[81]|cf1[82]|cf1[79]	_	_	_	
+1539-1548	17-10	_________	organization[78]|abstract[79]|abstract[80]|abstract[82]	new[78]|new[79]|new[80]|new[82]	nonsal[78]|nonsal[79]|nonsal[80]|nonsal[82]	cf1[78]|cf1[79]|cf1[80]|cf1[82]	_	_	_	
+1549-1554	17-11	_____	organization[78]|abstract[79]|abstract[82]	new[78]|new[79]|new[82]	nonsal[78]|nonsal[79]|nonsal[82]	cf1[78]|cf1[79]|cf1[82]	_	_	_	
+1555-1556	17-12	_	organization[78]|abstract[79]|abstract[82]	new[78]|new[79]|new[82]	nonsal[78]|nonsal[79]|nonsal[82]	cf1[78]|cf1[79]|cf1[82]	_	_	_	
+1557-1561	17-13	____	abstract[83]|organization[78]|time[84]|abstract[82]|abstract[79]	new[83]|new[78]|giv[84]|new[82]|new[79]	nonsal[83]|nonsal[78]|nonsal[84]|nonsal[82]|nonsal[79]	cf1[83]|cf1[78]|cf1[84]|cf1[82]|cf1[79]	_	coref	20-17[120_84]	
+1562-1568	17-14	______	abstract[83]|abstract[79]|abstract[82]|organization[78]	new[83]|new[79]|new[82]|new[78]	nonsal[83]|nonsal[79]|nonsal[82]|nonsal[78]	cf1[83]|cf1[79]|cf1[82]|cf1[78]	_	_	_	
+1569-1570	17-15	_	abstract[83]|abstract[79]|abstract[82]|organization[78]	new[83]|new[79]|new[82]|new[78]	nonsal[83]|nonsal[79]|nonsal[82]|nonsal[78]	cf1[83]|cf1[79]|cf1[82]|cf1[78]	_	_	_	
+1571-1572	17-16	_	abstract[83]|abstract[79]|abstract[82]|organization[78]	new[83]|new[79]|new[82]|new[78]	nonsal[83]|nonsal[79]|nonsal[82]|nonsal[78]	cf1[83]|cf1[79]|cf1[82]|cf1[78]	_	_	_	
+1573-1577	17-17	____	abstract[83]|time[85]|organization[78]|abstract[86]|abstract[82]|abstract[79]	new[83]|new[85]|new[78]|new[86]|new[82]|new[79]	nonsal[83]|nonsal[85]|nonsal[78]|nonsal[86]|nonsal[82]|nonsal[79]	cf1[83]|cf1[85]|cf1[78]|cf1[86]|cf1[82]|cf1[79]	_	_	_	
+1578-1588	17-18	__________	abstract[83]|organization[78]|abstract[86]|abstract[82]|abstract[79]	new[83]|new[78]|new[86]|new[82]|new[79]	nonsal[83]|nonsal[78]|nonsal[86]|nonsal[82]|nonsal[79]	cf1[83]|cf1[78]|cf1[86]|cf1[82]|cf1[79]	_	_	_	
+1589-1590	17-19	_	abstract[83]|abstract[79]|abstract[82]|organization[78]	new[83]|new[79]|new[82]|new[78]	nonsal[83]|nonsal[79]|nonsal[82]|nonsal[78]	cf1[83]|cf1[79]|cf1[82]|cf1[78]	_	_	_	
+1591-1592	17-20	_	organization[78]|abstract[79]	new[78]|new[79]	nonsal[78]|nonsal[79]	cf1[78]|cf1[79]	_	_	_	
+1593-1596	17-21	___	organization[78]|abstract[79]	new[78]|new[79]	nonsal[78]|nonsal[79]	cf1[78]|cf1[79]	_	_	_	
+1597-1608	17-22	___________	organization[78]|abstract[79]|abstract[87]	new[78]|new[79]|giv[87]	nonsal[78]|nonsal[79]|nonsal[87]	cf1[78]|cf1[79]|cf1[87]	_	_	_	
+1609-1612	17-23	___	organization[78]|abstract[79]|abstract[87]	new[78]|new[79]|giv[87]	nonsal[78]|nonsal[79]|nonsal[87]	cf1[78]|cf1[79]|cf1[87]	_	_	_	
+1613-1614	17-24	_	_	_	_	_	_	_	_	
+
+#Text=______ _ _____ __ _ __________ __ _______ _____ _ _________ _ __ _______ _____ _________ ___ _______ _____ _ ______ _____ _ ___ _ _____ _______ __________ ______ _______ _____ _ ______ _____ _ ___ _ ______ _______ _ ___ _____ _
+1615-1621	18-1	______	place[88]	new[88]	nonsal[88]	cf1[88]	_	_	_	
+1622-1623	18-2	_	place[88]	new[88]	nonsal[88]	cf1[88]	_	_	_	
+1624-1629	18-3	_____	abstract[89]|place[88]	new[89]|new[88]	nonsal[89]|nonsal[88]	cf1[89]|cf1[88]	_	_	_	
+1630-1632	18-4	__	place[88]	new[88]	nonsal[88]	cf1[88]	_	_	_	
+1633-1634	18-5	_	place[88]|abstract[90]	new[88]|new[90]	nonsal[88]|nonsal[90]	cf1[88]|cf1[90]	_	_	_	
+1635-1645	18-6	__________	place[88]|abstract[90]	new[88]|new[90]	nonsal[88]|nonsal[90]	cf1[88]|cf1[90]	_	_	_	
+1646-1648	18-7	__	place[88]|abstract[90]	new[88]|new[90]	nonsal[88]|nonsal[90]	cf1[88]|cf1[90]	_	_	_	
+1649-1656	18-8	_______	place[88]|abstract[90]|abstract[91]	new[88]|new[90]|new[91]	nonsal[88]|nonsal[90]|nonsal[91]	cf1[88]|cf1[90]|cf1[91]	_	_	_	
+1657-1662	18-9	_____	place[88]|abstract[90]|abstract[91]	new[88]|new[90]|new[91]	nonsal[88]|nonsal[90]|nonsal[91]	cf1[88]|cf1[90]|cf1[91]	_	_	_	
+1663-1664	18-10	_	place[88]|abstract[90]	new[88]|new[90]	nonsal[88]|nonsal[90]	cf1[88]|cf1[90]	_	_	_	
+1665-1674	18-11	_________	place[88]|abstract[90]	new[88]|new[90]	nonsal[88]|nonsal[90]	cf1[88]|cf1[90]	_	_	_	
+1675-1676	18-12	_	abstract[92]|place[88]|abstract[93]|abstract[90]	new[92]|new[88]|new[93]|new[90]	nonsal[92]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[92]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1677-1679	18-13	__	abstract[92]|place[88]|abstract[93]|abstract[90]	new[92]|new[88]|new[93]|new[90]	nonsal[92]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[92]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1680-1687	18-14	_______	abstract[92]|place[88]|abstract[93]|abstract[90]	new[92]|new[88]|new[93]|new[90]	nonsal[92]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[92]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1688-1693	18-15	_____	organization[94]|abstract[95]|abstract[90]|abstract[93]|abstract[92]|place[88]|abstract[96]	new[94]|new[95]|new[90]|new[93]|new[92]|new[88]|new[96]	nonsal[94]|nonsal[95]|nonsal[90]|nonsal[93]|nonsal[92]|nonsal[88]|nonsal[96]	cf1[94]|cf1[95]|cf1[90]|cf1[93]|cf1[92]|cf1[88]|cf1[96]	_	_	_	
+1694-1703	18-16	_________	abstract[96]|abstract[90]|abstract[93]|abstract[92]|place[88]|abstract[95]	new[96]|new[90]|new[93]|new[92]|new[88]|new[95]	nonsal[96]|nonsal[90]|nonsal[93]|nonsal[92]|nonsal[88]|nonsal[95]	cf1[96]|cf1[90]|cf1[93]|cf1[92]|cf1[88]|cf1[95]	_	_	_	
+1704-1707	18-17	___	abstract[97]|abstract[90]|abstract[93]|place[88]|abstract[92]|abstract[95]	giv[97]|new[90]|new[93]|new[88]|new[92]|new[95]	nonsal[97]|nonsal[90]|nonsal[93]|nonsal[88]|nonsal[92]|nonsal[95]	cf1[97]|cf1[90]|cf1[93]|cf1[88]|cf1[92]|cf1[95]	_	_	_	
+1708-1715	18-18	_______	abstract[90]|abstract[93]|abstract[92]|place[88]|abstract[95]	new[90]|new[93]|new[92]|new[88]|new[95]	nonsal[90]|nonsal[93]|nonsal[92]|nonsal[88]|nonsal[95]	cf1[90]|cf1[93]|cf1[92]|cf1[88]|cf1[95]	_	_	_	
+1716-1721	18-19	_____	abstract[92]|place[88]|abstract[93]|abstract[90]	new[92]|new[88]|new[93]|new[90]	nonsal[92]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[92]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1722-1723	18-20	_	abstract[92]|place[88]|abstract[93]|abstract[90]	new[92]|new[88]|new[93]|new[90]	nonsal[92]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[92]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1724-1730	18-21	______	abstract[90]|abstract[93]|abstract[92]|place[88]|abstract[98]	new[90]|new[93]|new[92]|new[88]|new[98]	nonsal[90]|nonsal[93]|nonsal[92]|nonsal[88]|nonsal[98]	cf1[90]|cf1[93]|cf1[92]|cf1[88]|cf1[98]	_	_	_	
+1731-1736	18-22	_____	abstract[90]|abstract[93]|abstract[92]|place[88]|abstract[98]	new[90]|new[93]|new[92]|new[88]|new[98]	nonsal[90]|nonsal[93]|nonsal[92]|nonsal[88]|nonsal[98]	cf1[90]|cf1[93]|cf1[92]|cf1[88]|cf1[98]	_	_	_	
+1737-1738	18-23	_	place[88]|abstract[93]|abstract[90]	new[88]|new[93]|new[90]	nonsal[88]|nonsal[93]|nonsal[90]	cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1739-1742	18-24	___	place[88]|abstract[93]|abstract[90]	new[88]|new[93]|new[90]	nonsal[88]|nonsal[93]|nonsal[90]	cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1743-1744	18-25	_	abstract[99]|place[88]|abstract[93]|abstract[90]	new[99]|new[88]|new[93]|new[90]	nonsal[99]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[99]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1745-1750	18-26	_____	abstract[99]|place[88]|abstract[93]|abstract[90]	new[99]|new[88]|new[93]|new[90]	nonsal[99]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[99]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1751-1758	18-27	_______	abstract[99]|place[88]|abstract[93]|abstract[90]	new[99]|new[88]|new[93]|new[90]	nonsal[99]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[99]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1759-1769	18-28	__________	abstract[90]|abstract[99]|abstract[93]|place[88]|abstract[100]	new[90]|new[99]|new[93]|new[88]|new[100]	nonsal[90]|nonsal[99]|nonsal[93]|nonsal[88]|nonsal[100]	cf1[90]|cf1[99]|cf1[93]|cf1[88]|cf1[100]	_	_	_	
+1770-1776	18-29	______	abstract[90]|abstract[99]|abstract[93]|place[88]|abstract[100]	new[90]|new[99]|new[93]|new[88]|new[100]	nonsal[90]|nonsal[99]|nonsal[93]|nonsal[88]|nonsal[100]	cf1[90]|cf1[99]|cf1[93]|cf1[88]|cf1[100]	_	_	_	
+1777-1784	18-30	_______	abstract[90]|abstract[93]|abstract[99]|place[88]|abstract[101]	new[90]|new[93]|new[99]|new[88]|new[101]	nonsal[90]|nonsal[93]|nonsal[99]|nonsal[88]|nonsal[101]	cf1[90]|cf1[93]|cf1[99]|cf1[88]|cf1[101]	_	coref	19-13[109_101]	
+1785-1790	18-31	_____	abstract[99]|place[88]|abstract[93]|abstract[90]	new[99]|new[88]|new[93]|new[90]	nonsal[99]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[99]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1791-1792	18-32	_	abstract[99]|place[88]|abstract[93]|abstract[90]	new[99]|new[88]|new[93]|new[90]	nonsal[99]|nonsal[88]|nonsal[93]|nonsal[90]	cf1[99]|cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1793-1799	18-33	______	abstract[90]|abstract[99]|abstract[93]|place[88]|abstract[102]	new[90]|new[99]|new[93]|new[88]|new[102]	nonsal[90]|nonsal[99]|nonsal[93]|nonsal[88]|nonsal[102]	cf1[90]|cf1[99]|cf1[93]|cf1[88]|cf1[102]	_	_	_	
+1800-1805	18-34	_____	abstract[90]|abstract[99]|abstract[93]|place[88]|abstract[102]	new[90]|new[99]|new[93]|new[88]|new[102]	nonsal[90]|nonsal[99]|nonsal[93]|nonsal[88]|nonsal[102]	cf1[90]|cf1[99]|cf1[93]|cf1[88]|cf1[102]	_	_	_	
+1806-1807	18-35	_	place[88]|abstract[93]|abstract[90]	new[88]|new[93]|new[90]	nonsal[88]|nonsal[93]|nonsal[90]	cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1808-1811	18-36	___	place[88]|abstract[93]|abstract[90]	new[88]|new[93]|new[90]	nonsal[88]|nonsal[93]|nonsal[90]	cf1[88]|cf1[93]|cf1[90]	_	_	_	
+1812-1813	18-37	_	place[88]|abstract[93]|abstract[90]|organization[103]	new[88]|new[93]|new[90]|new[103]	nonsal[88]|nonsal[93]|nonsal[90]|nonsal[103]	cf1[88]|cf1[93]|cf1[90]|cf1[103]	_	_	_	
+1814-1820	18-38	______	abstract[90]|abstract[93]|organization[104]|place[88]|organization[103]	new[90]|new[93]|new[104]|new[88]|new[103]	nonsal[90]|nonsal[93]|nonsal[104]|nonsal[88]|nonsal[103]	cf1[90]|cf1[93]|cf1[104]|cf1[88]|cf1[103]	_	_	_	
+1821-1828	18-39	_______	abstract[90]|abstract[93]|organization[104]|place[88]|organization[103]	new[90]|new[93]|new[104]|new[88]|new[103]	nonsal[90]|nonsal[93]|nonsal[104]|nonsal[88]|nonsal[103]	cf1[90]|cf1[93]|cf1[104]|cf1[88]|cf1[103]	_	_	_	
+1829-1830	18-40	_	abstract[90]|abstract[93]|organization[104]|place[88]|organization[103]	new[90]|new[93]|new[104]|new[88]|new[103]	nonsal[90]|nonsal[93]|nonsal[104]|nonsal[88]|nonsal[103]	cf1[90]|cf1[93]|cf1[104]|cf1[88]|cf1[103]	_	_	_	
+1831-1834	18-41	___	abstract[90]|abstract[93]|organization[104]|place[88]|organization[103]	new[90]|new[93]|new[104]|new[88]|new[103]	nonsal[90]|nonsal[93]|nonsal[104]|nonsal[88]|nonsal[103]	cf1[90]|cf1[93]|cf1[104]|cf1[88]|cf1[103]	_	_	_	
+1835-1840	18-42	_____	place[88]|abstract[93]|abstract[90]|organization[103]	new[88]|new[93]|new[90]|new[103]	nonsal[88]|nonsal[93]|nonsal[90]|nonsal[103]	cf1[88]|cf1[93]|cf1[90]|cf1[103]	_	_	_	
+1841-1842	18-43	_	_	_	_	_	_	_	_	
+
+#Text=__________ ______ __________ _________ _________ __ _ _____ _______ __ ______ __________ _______ _____ _ ___ _ ___________ _____ _
+1843-1853	19-1	__________	organization[105]	new[105]	nonsal[105]	cf1[105]	_	_	_	
+1854-1860	19-2	______	organization[105]	new[105]	nonsal[105]	cf1[105]	_	_	_	
+1861-1871	19-3	__________	organization[105]	new[105]	nonsal[105]	cf1[105]	_	_	_	
+1872-1881	19-4	_________	organization[105]	new[105]	nonsal[105]	cf1[105]	_	_	_	
+1882-1891	19-5	_________	organization[105]	new[105]	nonsal[105]	cf1[105]	_	_	_	
+1892-1894	19-6	__	organization[105]	new[105]	nonsal[105]	cf1[105]	_	_	_	
+1895-1896	19-7	_	abstract[106]|organization[105]	new[106]|new[105]	nonsal[106]|nonsal[105]	cf1[106]|cf1[105]	_	_	_	
+1897-1902	19-8	_____	abstract[106]|organization[105]	new[106]|new[105]	nonsal[106]|nonsal[105]	cf1[106]|cf1[105]	_	_	_	
+1903-1910	19-9	_______	abstract[106]|organization[105]	new[106]|new[105]	nonsal[106]|nonsal[105]	cf1[106]|cf1[105]	_	_	_	
+1911-1913	19-10	__	abstract[106]|organization[105]	new[106]|new[105]	nonsal[106]|nonsal[105]	cf1[106]|cf1[105]	_	_	_	
+1914-1920	19-11	______	organization[107]|abstract[106]|abstract[108]|organization[105]	new[107]|new[106]|new[108]|new[105]	nonsal[107]|nonsal[106]|nonsal[108]|nonsal[105]	cf1[107]|cf1[106]|cf1[108]|cf1[105]	_	_	_	
+1921-1931	19-12	__________	organization[107]|abstract[106]|abstract[108]|organization[105]	new[107]|new[106]|new[108]|new[105]	nonsal[107]|nonsal[106]|nonsal[108]|nonsal[105]	cf1[107]|cf1[106]|cf1[108]|cf1[105]	_	_	_	
+1932-1939	19-13	_______	abstract[106]|organization[105]|abstract[109]|abstract[108]	new[106]|new[105]|giv[109]|new[108]	nonsal[106]|nonsal[105]|nonsal[109]|nonsal[108]	cf1[106]|cf1[105]|cf1[109]|cf1[108]	_	coref	21-11[125_109]	
+1940-1945	19-14	_____	abstract[106]|abstract[108]|organization[105]	new[106]|new[108]|new[105]	nonsal[106]|nonsal[108]|nonsal[105]	cf1[106]|cf1[108]|cf1[105]	_	_	_	
+1946-1947	19-15	_	abstract[106]|organization[105]	new[106]|new[105]	nonsal[106]|nonsal[105]	cf1[106]|cf1[105]	_	_	_	
+1948-1951	19-16	___	abstract[106]|organization[105]	new[106]|new[105]	nonsal[106]|nonsal[105]	cf1[106]|cf1[105]	_	_	_	
+1952-1953	19-17	_	organization[110]|abstract[106]|organization[105]	new[110]|new[106]|new[105]	nonsal[110]|nonsal[106]|nonsal[105]	cf1[110]|cf1[106]|cf1[105]	_	_	_	
+1954-1965	19-18	___________	organization[111]|abstract[106]|organization[105]|organization[110]	giv[111]|new[106]|new[105]|new[110]	nonsal[111]|nonsal[106]|nonsal[105]|nonsal[110]	cf1[111]|cf1[106]|cf1[105]|cf1[110]	_	coref	24-24[152_111]	
+1966-1971	19-19	_____	organization[110]|abstract[106]|organization[105]	new[110]|new[106]|new[105]	nonsal[110]|nonsal[106]|nonsal[105]	cf1[110]|cf1[106]|cf1[105]	_	_	_	
+1972-1973	19-20	_	_	_	_	_	_	_	_	
+
+#Text=___________ __ _ ___ _______ __ _______ __________ _______ ____________ _____ _ _______ _______ ____ _ ____ ______ _ _ ___ _ ________________ _______ _______ _____ _
+1974-1985	20-1	___________	organization[112]	new[112]	nonsal[112]	cf1[112]	_	_	_	
+1986-1988	20-2	__	organization[112]	new[112]	nonsal[112]	cf1[112]	_	_	_	
+1989-1990	20-3	_	abstract[113]|organization[112]	new[113]|new[112]	nonsal[113]|nonsal[112]	cf1[113]|cf1[112]	_	_	_	
+1991-1994	20-4	___	abstract[113]|organization[112]	new[113]|new[112]	nonsal[113]|nonsal[112]	cf1[113]|cf1[112]	_	_	_	
+1995-2002	20-5	_______	abstract[113]|organization[112]	new[113]|new[112]	nonsal[113]|nonsal[112]	cf1[113]|cf1[112]	_	_	_	
+2003-2005	20-6	__	abstract[113]|organization[112]	new[113]|new[112]	nonsal[113]|nonsal[112]	cf1[113]|cf1[112]	_	_	_	
+2006-2013	20-7	_______	abstract[113]|abstract[114]|organization[112]|abstract[115]	new[113]|new[114]|new[112]|giv[115]	nonsal[113]|nonsal[114]|nonsal[112]|nonsal[115]	cf1[113]|cf1[114]|cf1[112]|cf1[115]	_	_	_	
+2014-2024	20-8	__________	abstract[113]|abstract[114]|organization[112]|abstract[115]	new[113]|new[114]|new[112]|giv[115]	nonsal[113]|nonsal[114]|nonsal[112]|nonsal[115]	cf1[113]|cf1[114]|cf1[112]|cf1[115]	_	_	_	
+2025-2032	20-9	_______	organization[112]|abstract[116]|abstract[117]|abstract[114]|abstract[113]	new[112]|new[116]|new[117]|new[114]|new[113]	nonsal[112]|nonsal[116]|nonsal[117]|nonsal[114]|nonsal[113]	cf1[112]|cf1[116]|cf1[117]|cf1[114]|cf1[113]	_	_	_	
+2033-2045	20-10	____________	abstract[117]|organization[112]|abstract[114]|abstract[113]	new[117]|new[112]|new[114]|new[113]	nonsal[117]|nonsal[112]|nonsal[114]|nonsal[113]	cf1[117]|cf1[112]|cf1[114]|cf1[113]	_	_	_	
+2046-2051	20-11	_____	abstract[113]|organization[112]|abstract[114]	new[113]|new[112]|new[114]	nonsal[113]|nonsal[112]|nonsal[114]	cf1[113]|cf1[112]|cf1[114]	_	_	_	
+2052-2053	20-12	_	abstract[113]|organization[112]|abstract[114]	new[113]|new[112]|new[114]	nonsal[113]|nonsal[112]|nonsal[114]	cf1[113]|cf1[112]|cf1[114]	_	_	_	
+2054-2061	20-13	_______	abstract[118]|organization[112]|abstract[114]|abstract[113]	new[118]|new[112]|new[114]|new[113]	nonsal[118]|nonsal[112]|nonsal[114]|nonsal[113]	cf1[118]|cf1[112]|cf1[114]|cf1[113]	_	_	_	
+2062-2069	20-14	_______	abstract[118]|organization[112]|abstract[114]|abstract[113]	new[118]|new[112]|new[114]|new[113]	nonsal[118]|nonsal[112]|nonsal[114]|nonsal[113]	cf1[118]|cf1[112]|cf1[114]|cf1[113]	_	_	_	
+2070-2074	20-15	____	abstract[118]|organization[112]|abstract[114]|abstract[113]	new[118]|new[112]|new[114]|new[113]	nonsal[118]|nonsal[112]|nonsal[114]|nonsal[113]	cf1[118]|cf1[112]|cf1[114]|cf1[113]	_	_	_	
+2075-2076	20-16	_	abstract[118]|organization[112]|abstract[114]|abstract[113]	new[118]|new[112]|new[114]|new[113]	nonsal[118]|nonsal[112]|nonsal[114]|nonsal[113]	cf1[118]|cf1[112]|cf1[114]|cf1[113]	_	_	_	
+2077-2081	20-17	____	abstract[119]|organization[112]|time[120]|abstract[118]|abstract[114]|abstract[113]	new[119]|new[112]|giv[120]|new[118]|new[114]|new[113]	nonsal[119]|nonsal[112]|nonsal[120]|nonsal[118]|nonsal[114]|nonsal[113]	cf1[119]|cf1[112]|cf1[120]|cf1[118]|cf1[114]|cf1[113]	_	coref	21-18[129_120]	
+2082-2088	20-18	______	organization[112]|abstract[119]|abstract[118]|abstract[114]|abstract[113]	new[112]|new[119]|new[118]|new[114]|new[113]	nonsal[112]|nonsal[119]|nonsal[118]|nonsal[114]|nonsal[113]	cf1[112]|cf1[119]|cf1[118]|cf1[114]|cf1[113]	_	_	_	
+2089-2090	20-19	_	organization[112]|abstract[119]|abstract[118]|abstract[114]|abstract[113]	new[112]|new[119]|new[118]|new[114]|new[113]	nonsal[112]|nonsal[119]|nonsal[118]|nonsal[114]|nonsal[113]	cf1[112]|cf1[119]|cf1[118]|cf1[114]|cf1[113]	_	_	_	
+2091-2092	20-20	_	abstract[113]|organization[112]	new[113]|new[112]	nonsal[113]|nonsal[112]	cf1[113]|cf1[112]	_	_	_	
+2093-2096	20-21	___	abstract[113]|organization[112]	new[113]|new[112]	nonsal[113]|nonsal[112]	cf1[113]|cf1[112]	_	_	_	
+2097-2098	20-22	_	abstract[113]|organization[121]|organization[112]	new[113]|new[121]|new[112]	nonsal[113]|nonsal[121]|nonsal[112]	cf1[113]|cf1[121]|cf1[112]	_	_	_	
+2099-2115	20-23	________________	organization[122]|organization[121]|organization[112]|abstract[113]	new[122]|new[121]|new[112]|new[113]	nonsal[122]|nonsal[121]|nonsal[112]|nonsal[113]	cf1[122]|cf1[121]|cf1[112]|cf1[113]	_	coref	23-20[142_122]	
+2116-2123	20-24	_______	organization[122]|organization[121]|organization[112]|abstract[113]	new[122]|new[121]|new[112]|new[113]	nonsal[122]|nonsal[121]|nonsal[112]|nonsal[113]	cf1[122]|cf1[121]|cf1[112]|cf1[113]	_	_	_	
+2124-2131	20-25	_______	organization[122]|organization[121]|organization[112]|abstract[113]	new[122]|new[121]|new[112]|new[113]	nonsal[122]|nonsal[121]|nonsal[112]|nonsal[113]	cf1[122]|cf1[121]|cf1[112]|cf1[113]	_	_	_	
+2132-2137	20-26	_____	abstract[113]|organization[121]|organization[112]	new[113]|new[121]|new[112]	nonsal[113]|nonsal[121]|nonsal[112]	cf1[113]|cf1[121]|cf1[112]	_	_	_	
+2138-2139	20-27	_	_	_	_	_	_	_	_	
+
+#Text=____________ ______ _________ __________ _________ __ _ ___ _______ __ _______ _____ ___ _________ __________ _ ______ ____ _ ___ _ _______ _____ _____ _
+2140-2152	21-1	____________	organization[123]	new[123]	nonsal[123]	cf1[123]	_	_	_	
+2153-2159	21-2	______	organization[123]	new[123]	nonsal[123]	cf1[123]	_	_	_	
+2160-2169	21-3	_________	organization[123]	new[123]	nonsal[123]	cf1[123]	_	_	_	
+2170-2180	21-4	__________	organization[123]	new[123]	nonsal[123]	cf1[123]	_	_	_	
+2181-2190	21-5	_________	organization[123]	new[123]	nonsal[123]	cf1[123]	_	_	_	
+2191-2193	21-6	__	organization[123]	new[123]	nonsal[123]	cf1[123]	_	_	_	
+2194-2195	21-7	_	abstract[124]|organization[123]	new[124]|new[123]	nonsal[124]|nonsal[123]	cf1[124]|cf1[123]	_	_	_	
+2196-2199	21-8	___	abstract[124]|organization[123]	new[124]|new[123]	nonsal[124]|nonsal[123]	cf1[124]|cf1[123]	_	_	_	
+2200-2207	21-9	_______	abstract[124]|organization[123]	new[124]|new[123]	nonsal[124]|nonsal[123]	cf1[124]|cf1[123]	_	_	_	
+2208-2210	21-10	__	abstract[124]|organization[123]	new[124]|new[123]	nonsal[124]|nonsal[123]	cf1[124]|cf1[123]	_	_	_	
+2211-2218	21-11	_______	abstract[125]|abstract[126]|organization[123]|abstract[124]	giv[125]|new[126]|new[123]|new[124]	nonsal[125]|nonsal[126]|nonsal[123]|nonsal[124]	cf1[125]|cf1[126]|cf1[123]|cf1[124]	_	_	_	
+2219-2224	21-12	_____	abstract[126]|abstract[124]|organization[123]	new[126]|new[124]|new[123]	nonsal[126]|nonsal[124]|nonsal[123]	cf1[126]|cf1[124]|cf1[123]	_	_	_	
+2225-2228	21-13	___	abstract[126]|abstract[124]|organization[123]	new[126]|new[124]|new[123]	nonsal[126]|nonsal[124]|nonsal[123]	cf1[126]|cf1[124]|cf1[123]	_	_	_	
+2229-2238	21-14	_________	abstract[126]|abstract[124]|organization[127]|organization[123]	new[126]|new[124]|new[127]|new[123]	nonsal[126]|nonsal[124]|nonsal[127]|nonsal[123]	cf1[126]|cf1[124]|cf1[127]|cf1[123]	_	_	_	
+2239-2249	21-15	__________	abstract[126]|abstract[124]|organization[127]|organization[123]	new[126]|new[124]|new[127]|new[123]	nonsal[126]|nonsal[124]|nonsal[127]|nonsal[123]	cf1[126]|cf1[124]|cf1[127]|cf1[123]	_	_	_	
+2250-2251	21-16	_	abstract[124]|organization[123]	new[124]|new[123]	nonsal[124]|nonsal[123]	cf1[124]|cf1[123]	_	_	_	
+2252-2258	21-17	______	abstract[124]|abstract[128]|organization[123]	new[124]|new[128]|new[123]	nonsal[124]|nonsal[128]|nonsal[123]	cf1[124]|cf1[128]|cf1[123]	_	_	_	
+2259-2263	21-18	____	time[129]|abstract[124]|abstract[128]|organization[123]	giv[129]|new[124]|new[128]|new[123]	nonsal[129]|nonsal[124]|nonsal[128]|nonsal[123]	cf1[129]|cf1[124]|cf1[128]|cf1[123]	_	coref	24-20[150_129]	
+2264-2265	21-19	_	abstract[124]|organization[123]	new[124]|new[123]	nonsal[124]|nonsal[123]	cf1[124]|cf1[123]	_	_	_	
+2266-2269	21-20	___	abstract[124]|organization[123]	new[124]|new[123]	nonsal[124]|nonsal[123]	cf1[124]|cf1[123]	_	_	_	
+2270-2271	21-21	_	abstract[124]|abstract[130]|organization[123]	new[124]|new[130]|new[123]	nonsal[124]|nonsal[130]|nonsal[123]	cf1[124]|cf1[130]|cf1[123]	_	_	_	
+2272-2279	21-22	_______	abstract[124]|abstract[130]|organization[131]|organization[123]	new[124]|new[130]|giv[131]|new[123]	nonsal[124]|nonsal[130]|nonsal[131]|nonsal[123]	cf1[124]|cf1[130]|cf1[131]|cf1[123]	_	_	_	
+2280-2285	21-23	_____	abstract[124]|abstract[130]|organization[131]|organization[123]	new[124]|new[130]|giv[131]|new[123]	nonsal[124]|nonsal[130]|nonsal[131]|nonsal[123]	cf1[124]|cf1[130]|cf1[131]|cf1[123]	_	_	_	
+2286-2291	21-24	_____	abstract[124]|abstract[130]|organization[123]	new[124]|new[130]|new[123]	nonsal[124]|nonsal[130]|nonsal[123]	cf1[124]|cf1[130]|cf1[123]	_	_	_	
+2292-2293	21-25	_	_	_	_	_	_	_	_	
+
+#Text=_________ ______ _________ __ _____ _______ __ _____ _____ _ ___ _____ ______ ____ _
+2294-2303	22-1	_________	organization[132]	new[132]	nonsal[132]	cf1[132]	_	_	_	
+2304-2310	22-2	______	organization[132]	new[132]	nonsal[132]	cf1[132]	_	_	_	
+2311-2320	22-3	_________	organization[132]	new[132]	nonsal[132]	cf1[132]	_	_	_	
+2321-2323	22-4	__	organization[132]	new[132]	nonsal[132]	cf1[132]	_	_	_	
+2324-2329	22-5	_____	organization[132]|abstract[133]	new[132]|new[133]	nonsal[132]|nonsal[133]	cf1[132]|cf1[133]	_	_	_	
+2330-2337	22-6	_______	organization[132]|abstract[133]	new[132]|new[133]	nonsal[132]|nonsal[133]	cf1[132]|cf1[133]	_	_	_	
+2338-2340	22-7	__	organization[132]|abstract[133]	new[132]|new[133]	nonsal[132]|nonsal[133]	cf1[132]|cf1[133]	_	_	_	
+2341-2346	22-8	_____	organization[132]|abstract[134]|abstract[133]	new[132]|new[134]|new[133]	nonsal[132]|nonsal[134]|nonsal[133]	cf1[132]|cf1[134]|cf1[133]	_	_	_	
+2347-2352	22-9	_____	organization[132]|abstract[134]|abstract[133]	new[132]|new[134]|new[133]	nonsal[132]|nonsal[134]|nonsal[133]	cf1[132]|cf1[134]|cf1[133]	_	_	_	
+2353-2354	22-10	_	organization[132]|abstract[133]	new[132]|new[133]	nonsal[132]|nonsal[133]	cf1[132]|cf1[133]	_	_	_	
+2355-2358	22-11	___	organization[132]|abstract[133]	new[132]|new[133]	nonsal[132]|nonsal[133]	cf1[132]|cf1[133]	_	_	_	
+2359-2364	22-12	_____	organization[132]|organization[135]|abstract[133]	new[132]|new[135]|new[133]	nonsal[132]|nonsal[135]|nonsal[133]	cf1[132]|cf1[135]|cf1[133]	_	coref	25-19[162_135]	
+2365-2371	22-13	______	organization[132]|organization[135]|abstract[133]	new[132]|new[135]|new[133]	nonsal[132]|nonsal[135]|nonsal[133]	cf1[132]|cf1[135]|cf1[133]	_	_	_	
+2372-2376	22-14	____	organization[132]|organization[135]|abstract[133]	new[132]|new[135]|new[133]	nonsal[132]|nonsal[135]|nonsal[133]	cf1[132]|cf1[135]|cf1[133]	_	_	_	
+2377-2378	22-15	_	_	_	_	_	_	_	_	
+
+#Text=__________ __ ________ ___ _________ __ ___ ______ __ _ __ _______ __ ______ _ _____ _ ___ _ ________________ _____ _
+2379-2389	23-1	__________	organization[136]	new[136]	nonsal[136]	cf1[136]	_	_	_	
+2390-2392	23-2	__	organization[136]	new[136]	nonsal[136]	cf1[136]	_	_	_	
+2393-2401	23-3	________	organization[136]	new[136]	nonsal[136]	cf1[136]	_	_	_	
+2402-2405	23-4	___	organization[136]	new[136]	nonsal[136]	cf1[136]	_	_	_	
+2406-2415	23-5	_________	organization[136]	new[136]	nonsal[136]	cf1[136]	_	_	_	
+2416-2418	23-6	__	organization[136]	new[136]	nonsal[136]	cf1[136]	_	_	_	
+2419-2422	23-7	___	organization[137]|organization[136]	new[137]|new[136]	nonsal[137]|nonsal[136]	cf1[137]|cf1[136]	_	_	_	
+2423-2429	23-8	______	organization[137]|organization[136]	new[137]|new[136]	nonsal[137]|nonsal[136]	cf1[137]|cf1[136]	_	_	_	
+2430-2432	23-9	__	organization[136]	new[136]	nonsal[136]	cf1[136]	_	_	_	
+2433-2434	23-10	_	abstract[138]|organization[136]	new[138]|new[136]	nonsal[138]|nonsal[136]	cf1[138]|cf1[136]	_	_	_	
+2435-2437	23-11	__	abstract[138]|organization[136]	new[138]|new[136]	nonsal[138]|nonsal[136]	cf1[138]|cf1[136]	_	_	_	
+2438-2445	23-12	_______	abstract[138]|organization[136]	new[138]|new[136]	nonsal[138]|nonsal[136]	cf1[138]|cf1[136]	_	_	_	
+2446-2448	23-13	__	abstract[138]|organization[136]	new[138]|new[136]	nonsal[138]|nonsal[136]	cf1[138]|cf1[136]	_	_	_	
+2449-2455	23-14	______	abstract[139]|abstract[138]|abstract[140]|organization[136]	new[139]|new[138]|new[140]|new[136]	nonsal[139]|nonsal[138]|nonsal[140]|nonsal[136]	cf1[139]|cf1[138]|cf1[140]|cf1[136]	_	_	_	
+2456-2457	23-15	_	abstract[139]|abstract[138]|abstract[140]|organization[136]	new[139]|new[138]|new[140]|new[136]	nonsal[139]|nonsal[138]|nonsal[140]|nonsal[136]	cf1[139]|cf1[138]|cf1[140]|cf1[136]	_	_	_	
+2458-2463	23-16	_____	abstract[140]|abstract[138]|organization[136]	new[140]|new[138]|new[136]	nonsal[140]|nonsal[138]|nonsal[136]	cf1[140]|cf1[138]|cf1[136]	_	_	_	
+2464-2465	23-17	_	abstract[138]|organization[136]	new[138]|new[136]	nonsal[138]|nonsal[136]	cf1[138]|cf1[136]	_	_	_	
+2466-2469	23-18	___	abstract[138]|organization[136]	new[138]|new[136]	nonsal[138]|nonsal[136]	cf1[138]|cf1[136]	_	_	_	
+2470-2471	23-19	_	abstract[138]|organization[141]|organization[136]	new[138]|new[141]|new[136]	nonsal[138]|nonsal[141]|nonsal[136]	cf1[138]|cf1[141]|cf1[136]	_	_	_	
+2472-2488	23-20	________________	organization[142]|abstract[138]|organization[141]|organization[136]	giv[142]|new[138]|new[141]|new[136]	nonsal[142]|nonsal[138]|nonsal[141]|nonsal[136]	cf1[142]|cf1[138]|cf1[141]|cf1[136]	_	_	_	
+2489-2494	23-21	_____	abstract[138]|organization[141]|organization[136]	new[138]|new[141]|new[136]	nonsal[138]|nonsal[141]|nonsal[136]	cf1[138]|cf1[141]|cf1[136]	_	_	_	
+2495-2496	23-22	_	_	_	_	_	_	_	_	
+
+#Text=____ ________ ________ _ ________ ___________ ___ _______ _________ __ _ ___ _______ __ _______ _______ _____ _ ______ ____ _ ___ _ ___________ _____ _
+2497-2501	24-1	____	organization[143]	new[143]	nonsal[143]	cf1[143]	_	_	_	
+2502-2510	24-2	________	organization[143]	new[143]	nonsal[143]	cf1[143]	_	_	_	
+2511-2519	24-3	________	organization[143]	new[143]	nonsal[143]	cf1[143]	_	_	_	
+2520-2521	24-4	_	organization[143]	new[143]	nonsal[143]	cf1[143]	_	_	_	
+2522-2530	24-5	________	abstract[144]|organization[143]	new[144]|new[143]	nonsal[144]|nonsal[143]	cf1[144]|cf1[143]	_	_	_	
+2531-2542	24-6	___________	abstract[144]|organization[143]	new[144]|new[143]	nonsal[144]|nonsal[143]	cf1[144]|cf1[143]	_	_	_	
+2543-2546	24-7	___	abstract[144]|organization[143]	new[144]|new[143]	nonsal[144]|nonsal[143]	cf1[144]|cf1[143]	_	_	_	
+2547-2554	24-8	_______	abstract[144]|organization[143]	new[144]|new[143]	nonsal[144]|nonsal[143]	cf1[144]|cf1[143]	_	_	_	
+2555-2564	24-9	_________	abstract[144]|organization[143]	new[144]|new[143]	nonsal[144]|nonsal[143]	cf1[144]|cf1[143]	_	_	_	
+2565-2567	24-10	__	organization[143]	new[143]	nonsal[143]	cf1[143]	_	_	_	
+2568-2569	24-11	_	abstract[145]|organization[143]	new[145]|new[143]	nonsal[145]|nonsal[143]	cf1[145]|cf1[143]	_	_	_	
+2570-2573	24-12	___	abstract[145]|organization[143]	new[145]|new[143]	nonsal[145]|nonsal[143]	cf1[145]|cf1[143]	_	_	_	
+2574-2581	24-13	_______	abstract[145]|organization[143]	new[145]|new[143]	nonsal[145]|nonsal[143]	cf1[145]|cf1[143]	_	_	_	
+2582-2584	24-14	__	abstract[145]|organization[143]	new[145]|new[143]	nonsal[145]|nonsal[143]	cf1[145]|cf1[143]	_	_	_	
+2585-2592	24-15	_______	abstract[146]|abstract[147]|abstract[145]|abstract[148]|organization[143]	new[146]|new[147]|new[145]|new[148]|new[143]	nonsal[146]|nonsal[147]|nonsal[145]|nonsal[148]|nonsal[143]	cf1[146]|cf1[147]|cf1[145]|cf1[148]|cf1[143]	_	_	_	
+2593-2600	24-16	_______	abstract[147]|abstract[145]|abstract[148]|organization[143]	new[147]|new[145]|new[148]|new[143]	nonsal[147]|nonsal[145]|nonsal[148]|nonsal[143]	cf1[147]|cf1[145]|cf1[148]|cf1[143]	_	_	_	
+2601-2606	24-17	_____	abstract[147]|organization[143]|abstract[145]	new[147]|new[143]|new[145]	nonsal[147]|nonsal[143]|nonsal[145]	cf1[147]|cf1[143]|cf1[145]	_	_	_	
+2607-2608	24-18	_	abstract[147]|organization[143]|abstract[145]	new[147]|new[143]|new[145]	nonsal[147]|nonsal[143]|nonsal[145]	cf1[147]|cf1[143]|cf1[145]	_	_	_	
+2609-2615	24-19	______	abstract[147]|abstract[145]|abstract[149]|organization[143]	new[147]|new[145]|new[149]|new[143]	nonsal[147]|nonsal[145]|nonsal[149]|nonsal[143]	cf1[147]|cf1[145]|cf1[149]|cf1[143]	_	_	_	
+2616-2620	24-20	____	abstract[147]|abstract[145]|organization[143]|abstract[149]|time[150]	new[147]|new[145]|new[143]|new[149]|giv[150]	nonsal[147]|nonsal[145]|nonsal[143]|nonsal[149]|nonsal[150]	cf1[147]|cf1[145]|cf1[143]|cf1[149]|cf1[150]	_	_	_	
+2621-2622	24-21	_	abstract[145]|organization[143]	new[145]|new[143]	nonsal[145]|nonsal[143]	cf1[145]|cf1[143]	_	_	_	
+2623-2626	24-22	___	abstract[145]|organization[143]	new[145]|new[143]	nonsal[145]|nonsal[143]	cf1[145]|cf1[143]	_	_	_	
+2627-2628	24-23	_	abstract[145]|organization[143]|organization[151]	new[145]|new[143]|new[151]	nonsal[145]|nonsal[143]|nonsal[151]	cf1[145]|cf1[143]|cf1[151]	_	_	_	
+2629-2640	24-24	___________	abstract[145]|organization[152]|organization[143]|organization[151]	new[145]|giv[152]|new[143]|new[151]	nonsal[145]|nonsal[152]|nonsal[143]|nonsal[151]	cf1[145]|cf1[152]|cf1[143]|cf1[151]	_	_	_	
+2641-2646	24-25	_____	abstract[145]|organization[143]|organization[151]	new[145]|new[143]|new[151]	nonsal[145]|nonsal[143]|nonsal[151]	cf1[145]|cf1[143]|cf1[151]	_	_	_	
+2647-2648	24-26	_	_	_	_	_	_	_	_	
+
+#Text=___ _______ _ _____ __ _ ___ _______ __ ___ ___ ________ _______ _________ _____ _ ___ _ _____ ______ _____ _
+2649-2652	25-1	___	place[153]	new[153]	nonsal[153]	cf1[153]	_	_	_	
+2653-2660	25-2	_______	place[153]	new[153]	nonsal[153]	cf1[153]	_	_	_	
+2661-2662	25-3	_	place[153]	new[153]	nonsal[153]	cf1[153]	_	_	_	
+2663-2668	25-4	_____	place[153]|abstract[154]	new[153]|new[154]	nonsal[153]|nonsal[154]	cf1[153]|cf1[154]	_	_	_	
+2669-2671	25-5	__	place[153]	new[153]	nonsal[153]	cf1[153]	_	_	_	
+2672-2673	25-6	_	place[153]|abstract[155]	new[153]|new[155]	nonsal[153]|nonsal[155]	cf1[153]|cf1[155]	_	_	_	
+2674-2677	25-7	___	place[153]|abstract[155]	new[153]|new[155]	nonsal[153]|nonsal[155]	cf1[153]|cf1[155]	_	_	_	
+2678-2685	25-8	_______	place[153]|abstract[155]	new[153]|new[155]	nonsal[153]|nonsal[155]	cf1[153]|cf1[155]	_	_	_	
+2686-2688	25-9	__	place[153]|abstract[155]	new[153]|new[155]	nonsal[153]|nonsal[155]	cf1[153]|cf1[155]	_	_	_	
+2689-2692	25-10	___	abstract[156]|abstract[155]|concrete[156]|abstract[157]|place[153]	new[156]|new[155]|new[156]|new[157]|new[153]	nonsal[156]|nonsal[155]|nonsal[156]|nonsal[157]|nonsal[153]	cf1[156]|cf1[155]|cf1[156]|cf1[157]|cf1[153]	_	_	_	
+2693-2696	25-11	___	abstract[157]|place[153]|abstract[155]	new[157]|new[153]|new[155]	nonsal[157]|nonsal[153]|nonsal[155]	cf1[157]|cf1[153]|cf1[155]	_	_	_	
+2697-2705	25-12	________	abstract[157]|place[153]|abstract[155]|abstract[158]	new[157]|new[153]|new[155]|new[158]	nonsal[157]|nonsal[153]|nonsal[155]|nonsal[158]	cf1[157]|cf1[153]|cf1[155]|cf1[158]	_	_	_	
+2706-2713	25-13	_______	abstract[155]|abstract[159]|abstract[157]|abstract[158]|place[153]	new[155]|new[159]|new[157]|new[158]|new[153]	nonsal[155]|nonsal[159]|nonsal[157]|nonsal[158]|nonsal[153]	cf1[155]|cf1[159]|cf1[157]|cf1[158]|cf1[153]	_	_	_	
+2714-2723	25-14	_________	abstract[155]|abstract[159]|abstract[157]|place[153]|abstract[158]|abstract[160]	new[155]|new[159]|new[157]|new[153]|new[158]|new[160]	nonsal[155]|nonsal[159]|nonsal[157]|nonsal[153]|nonsal[158]|nonsal[160]	cf1[155]|cf1[159]|cf1[157]|cf1[153]|cf1[158]|cf1[160]	_	_	_	
+2724-2729	25-15	_____	abstract[155]|abstract[159]|abstract[157]|abstract[158]|place[153]	new[155]|new[159]|new[157]|new[158]|new[153]	nonsal[155]|nonsal[159]|nonsal[157]|nonsal[158]|nonsal[153]	cf1[155]|cf1[159]|cf1[157]|cf1[158]|cf1[153]	_	_	_	
+2730-2731	25-16	_	place[153]|abstract[155]	new[153]|new[155]	nonsal[153]|nonsal[155]	cf1[153]|cf1[155]	_	_	_	
+2732-2735	25-17	___	place[153]|abstract[155]	new[153]|new[155]	nonsal[153]|nonsal[155]	cf1[153]|cf1[155]	_	_	_	
+2736-2737	25-18	_	place[153]|abstract[155]|organization[161]	new[153]|new[155]|new[161]	nonsal[153]|nonsal[155]|nonsal[161]	cf1[153]|cf1[155]|cf1[161]	_	_	_	
+2738-2743	25-19	_____	organization[162]|place[153]|abstract[155]|organization[161]	giv[162]|new[153]|new[155]|new[161]	nonsal[162]|nonsal[153]|nonsal[155]|nonsal[161]	cf1[162]|cf1[153]|cf1[155]|cf1[161]	_	_	_	
+2744-2750	25-20	______	organization[162]|place[153]|abstract[155]|organization[161]	giv[162]|new[153]|new[155]|new[161]	nonsal[162]|nonsal[153]|nonsal[155]|nonsal[161]	cf1[162]|cf1[153]|cf1[155]|cf1[161]	_	_	_	
+2751-2756	25-21	_____	place[153]|abstract[155]|organization[161]	new[153]|new[155]|new[161]	nonsal[153]|nonsal[155]|nonsal[161]	cf1[153]|cf1[155]|cf1[161]	_	_	_	
+2757-2758	25-22	_	_	_	_	_	_	_	_	
+
+#Text=_____ ______ ______ _ _________ ________ _________ __ _ ____ _______ __ _____ ____ ________ ________ _____ _ ___ _ _________ _ _______ _ ______ _ ____ ____ _____ _
+2759-2764	26-1	_____	organization[163]	new[163]	nonsal[163]	cf1[163]	_	_	_	
+2765-2771	26-2	______	organization[163]	new[163]	nonsal[163]	cf1[163]	_	_	_	
+2772-2778	26-3	______	organization[163]	new[163]	nonsal[163]	cf1[163]	_	_	_	
+2779-2780	26-4	_	organization[163]	new[163]	nonsal[163]	cf1[163]	_	_	_	
+2781-2790	26-5	_________	organization[163]	new[163]	nonsal[163]	cf1[163]	_	_	_	
+2791-2799	26-6	________	organization[163]	new[163]	nonsal[163]	cf1[163]	_	_	_	
+2800-2809	26-7	_________	organization[163]	new[163]	nonsal[163]	cf1[163]	_	_	_	
+2810-2812	26-8	__	organization[163]	new[163]	nonsal[163]	cf1[163]	_	_	_	
+2813-2814	26-9	_	abstract[164]|organization[163]	new[164]|new[163]	nonsal[164]|nonsal[163]	cf1[164]|cf1[163]	_	_	_	
+2815-2819	26-10	____	abstract[164]|organization[163]	new[164]|new[163]	nonsal[164]|nonsal[163]	cf1[164]|cf1[163]	_	_	_	
+2820-2827	26-11	_______	abstract[164]|organization[163]	new[164]|new[163]	nonsal[164]|nonsal[163]	cf1[164]|cf1[163]	_	_	_	
+2828-2830	26-12	__	abstract[164]|organization[163]	new[164]|new[163]	nonsal[164]|nonsal[163]	cf1[164]|cf1[163]	_	_	_	
+2831-2836	26-13	_____	organization[163]|abstract[165]|organization[166]|abstract[164]	new[163]|new[165]|new[166]|new[164]	nonsal[163]|nonsal[165]|nonsal[166]|nonsal[164]	cf1[163]|cf1[165]|cf1[166]|cf1[164]	_	_	_	
+2837-2841	26-14	____	organization[163]|abstract[165]|organization[166]|abstract[164]	new[163]|new[165]|new[166]|new[164]	nonsal[163]|nonsal[165]|nonsal[166]|nonsal[164]	cf1[163]|cf1[165]|cf1[166]|cf1[164]	_	_	_	
+2842-2850	26-15	________	organization[163]|abstract[165]|organization[166]|abstract[164]	new[163]|new[165]|new[166]|new[164]	nonsal[163]|nonsal[165]|nonsal[166]|nonsal[164]	cf1[163]|cf1[165]|cf1[166]|cf1[164]	_	_	_	
+2851-2859	26-16	________	organization[163]|abstract[165]|organization[166]|abstract[164]	new[163]|new[165]|new[166]|new[164]	nonsal[163]|nonsal[165]|nonsal[166]|nonsal[164]	cf1[163]|cf1[165]|cf1[166]|cf1[164]	_	_	_	
+2860-2865	26-17	_____	abstract[164]|organization[163]|abstract[165]	new[164]|new[163]|new[165]	nonsal[164]|nonsal[163]|nonsal[165]	cf1[164]|cf1[163]|cf1[165]	_	_	_	
+2866-2867	26-18	_	abstract[164]|organization[163]	new[164]|new[163]	nonsal[164]|nonsal[163]	cf1[164]|cf1[163]	_	_	_	
+2868-2871	26-19	___	abstract[164]|organization[163]	new[164]|new[163]	nonsal[164]|nonsal[163]	cf1[164]|cf1[163]	_	_	_	
+2872-2873	26-20	_	abstract[164]|organization[163]|organization[167]	new[164]|new[163]|new[167]	nonsal[164]|nonsal[163]|nonsal[167]	cf1[164]|cf1[163]|cf1[167]	_	_	_	
+2874-2883	26-21	_________	organization[168]|organization[163]|abstract[164]|organization[167]	new[168]|new[163]|new[164]|new[167]	nonsal[168]|nonsal[163]|nonsal[164]|nonsal[167]	cf1[168]|cf1[163]|cf1[164]|cf1[167]	_	_	_	
+2884-2885	26-22	_	organization[168]|organization[163]|abstract[164]|organization[167]	new[168]|new[163]|new[164]|new[167]	nonsal[168]|nonsal[163]|nonsal[164]|nonsal[167]	cf1[168]|cf1[163]|cf1[164]|cf1[167]	_	_	_	
+2886-2893	26-23	_______	organization[168]|organization[163]|abstract[164]|organization[167]	new[168]|new[163]|new[164]|new[167]	nonsal[168]|nonsal[163]|nonsal[164]|nonsal[167]	cf1[168]|cf1[163]|cf1[164]|cf1[167]	_	_	_	
+2894-2895	26-24	_	organization[168]|organization[163]|abstract[164]|organization[167]	new[168]|new[163]|new[164]|new[167]	nonsal[168]|nonsal[163]|nonsal[164]|nonsal[167]	cf1[168]|cf1[163]|cf1[164]|cf1[167]	_	_	_	
+2896-2902	26-25	______	organization[168]|organization[163]|abstract[164]|organization[167]	new[168]|new[163]|new[164]|new[167]	nonsal[168]|nonsal[163]|nonsal[164]|nonsal[167]	cf1[168]|cf1[163]|cf1[164]|cf1[167]	_	_	_	
+2903-2904	26-26	_	organization[168]|organization[163]|abstract[164]|organization[167]	new[168]|new[163]|new[164]|new[167]	nonsal[168]|nonsal[163]|nonsal[164]|nonsal[167]	cf1[168]|cf1[163]|cf1[164]|cf1[167]	_	_	_	
+2905-2909	26-27	____	organization[168]|organization[163]|abstract[164]|organization[167]	new[168]|new[163]|new[164]|new[167]	nonsal[168]|nonsal[163]|nonsal[164]|nonsal[167]	cf1[168]|cf1[163]|cf1[164]|cf1[167]	_	_	_	
+2910-2914	26-28	____	organization[168]|organization[163]|abstract[164]|organization[167]	new[168]|new[163]|new[164]|new[167]	nonsal[168]|nonsal[163]|nonsal[164]|nonsal[167]	cf1[168]|cf1[163]|cf1[164]|cf1[167]	_	_	_	
+2915-2920	26-29	_____	abstract[164]|organization[163]|organization[167]	new[164]|new[163]|new[167]	nonsal[164]|nonsal[163]|nonsal[167]	cf1[164]|cf1[163]|cf1[167]	_	_	_	
+2921-2922	26-30	_	_	_	_	_	_	_	_	

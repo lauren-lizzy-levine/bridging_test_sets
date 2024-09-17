@@ -1,0 +1,199 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Referent|entity|infstat|salience|identity|centering
+#T_RL=webanno.custom.Coref|type|BT_webanno.custom.Referent
+
+
+#Text=_____ _____ __________ ____ ____ ___ _________ _______ __ _________ __ _________ _______ ___ ____ _____ _______ ____ __ _______ ___ _____ ________ ______ ________ ____ _____ __ _ ___________ ____ ____ _____ _____ __ ________ ____________ ____ ____ _ __ ___ ________ _______ _
+0-5	1-1	_____	organization[1]	new[1]	nonsal[1]	cf1[1]	_	coref	1-6[3_1]	
+6-11	1-2	_____	organization[1]	new[1]	nonsal[1]	cf1[1]	_	_	_	
+12-22	1-3	__________	organization[1]	new[1]	nonsal[1]	cf1[1]	_	_	_	
+23-27	1-4	____	organization[1]	new[1]	nonsal[1]	cf1[1]	_	_	_	
+28-32	1-5	____	_	_	_	_	_	_	_	
+33-36	1-6	___	person[2]|organization[3]	new[2]|giv[3]	nonsal[2]|nonsal[3]	cf1[2]|cf1[3]	_	coref|coref	4-1[38_2]|1-27[11_3]	
+37-46	1-7	_________	person[2]	new[2]	nonsal[2]	cf1[2]	_	_	_	
+47-54	1-8	_______	_	_	_	_	_	_	_	
+55-57	1-9	__	event[4]	new[4]	nonsal[4]	cf1[4]	_	coref	5-2[44_4]	
+58-67	1-10	_________	event[4]	new[4]	nonsal[4]	cf1[4]	_	_	_	
+68-70	1-11	__	event[4]	new[4]	nonsal[4]	cf1[4]	_	_	_	
+71-80	1-12	_________	abstract[5]|event[4]	new[5]|new[4]	nonsal[5]|nonsal[4]	cf1[5]|cf1[4]	_	_	_	
+81-88	1-13	_______	event[4]	new[4]	nonsal[4]	cf1[4]	_	_	_	
+89-92	1-14	___	event[4]	new[4]	nonsal[4]	cf1[4]	_	_	_	
+93-97	1-15	____	organization[6]|event[4]	new[6]|new[4]	nonsal[6]|nonsal[4]	cf1[6]|cf1[4]	_	coref	1-21[7_6]	
+98-103	1-16	_____	organization[6]|event[4]	new[6]|new[4]	nonsal[6]|nonsal[4]	cf1[6]|cf1[4]	_	_	_	
+104-111	1-17	_______	organization[6]|event[4]	new[6]|new[4]	nonsal[6]|nonsal[4]	cf1[6]|cf1[4]	_	_	_	
+112-116	1-18	____	organization[6]|event[4]	new[6]|new[4]	nonsal[6]|nonsal[4]	cf1[6]|cf1[4]	_	_	_	
+117-119	1-19	__	event[4]	new[4]	nonsal[4]	cf1[4]	_	_	_	
+120-127	1-20	_______	event[4]	new[4]	nonsal[4]	cf1[4]	_	_	_	
+128-131	1-21	___	organization[7]|abstract[8]|event[4]	giv[7]|new[8]|new[4]	nonsal[7]|nonsal[8]|nonsal[4]	cf1[7]|cf1[8]|cf1[4]	_	coref	2-1[17_7]	
+132-137	1-22	_____	abstract[8]|place[9]|event[4]	new[8]|new[9]|new[4]	nonsal[8]|nonsal[9]|nonsal[4]	cf1[8]|cf1[9]|cf1[4]	_	coref	2-4[19_9]	
+138-146	1-23	________	abstract[8]|place[9]|event[4]	new[8]|new[9]|new[4]	nonsal[8]|nonsal[9]|nonsal[4]	cf1[8]|cf1[9]|cf1[4]	_	_	_	
+147-153	1-24	______	concrete[10]|abstract[8]|event[4]	new[10]|new[8]|new[4]	nonsal[10]|nonsal[8]|nonsal[4]	cf1[10]|cf1[8]|cf1[4]	_	_	_	
+154-162	1-25	________	abstract[8]|event[4]	new[8]|new[4]	nonsal[8]|nonsal[4]	cf1[8]|cf1[4]	_	_	_	
+163-167	1-26	____	event[4]	new[4]	nonsal[4]	cf1[4]	_	_	_	
+168-173	1-27	_____	organization[11]|event[4]	giv[11]|new[4]	nonsal[11]|nonsal[4]	cf1[11]|cf1[4]	_	coref	1-34[14_11]	
+174-176	1-28	__	event[4]	new[4]	nonsal[4]	cf1[4]	_	_	_	
+177-178	1-29	_	event[12]|event[4]	new[12]|new[4]	nonsal[12]|nonsal[4]	cf1[12]|cf1[4]	_	coref	7-1[52_12]	
+179-190	1-30	___________	event[12]|event[4]	new[12]|new[4]	nonsal[12]|nonsal[4]	cf1[12]|cf1[4]	_	_	_	
+191-195	1-31	____	event[12]|event[4]	new[12]|new[4]	nonsal[12]|nonsal[4]	cf1[12]|cf1[4]	_	_	_	
+196-200	1-32	____	event[12]|event[4]	new[12]|new[4]	nonsal[12]|nonsal[4]	cf1[12]|cf1[4]	_	_	_	
+201-206	1-33	_____	event[12]|event[4]	new[12]|new[4]	nonsal[12]|nonsal[4]	cf1[12]|cf1[4]	_	_	_	
+207-212	1-34	_____	person[13]|organization[14]|event[12]|event[4]	new[13]|giv[14]|new[12]|new[4]	nonsal[13]|nonsal[14]|nonsal[12]|nonsal[4]	cf1[13]|cf1[14]|cf1[12]|cf1[4]	_	coref	2-43[31_14]	
+213-215	1-35	__	person[13]|organization[14]|event[12]|event[4]	new[13]|giv[14]|new[12]|new[4]	nonsal[13]|nonsal[14]|nonsal[12]|nonsal[4]	cf1[13]|cf1[14]|cf1[12]|cf1[4]	_	_	_	
+216-224	1-36	________	person[13]|event[4]|event[12]	new[13]|new[4]|new[12]	nonsal[13]|nonsal[4]|nonsal[12]	cf1[13]|cf1[4]|cf1[12]	_	_	_	
+225-237	1-37	____________	person[13]|event[4]|event[12]	new[13]|new[4]|new[12]	nonsal[13]|nonsal[4]|nonsal[12]	cf1[13]|cf1[4]|cf1[12]	_	_	_	
+238-242	1-38	____	event[12]|event[4]	new[12]|new[4]	nonsal[12]|nonsal[4]	cf1[12]|cf1[4]	_	_	_	
+243-247	1-39	____	event[12]|event[4]|abstract[15]	new[12]|new[4]|new[15]	nonsal[12]|nonsal[4]|nonsal[15]	cf1[12]|cf1[4]|cf1[15]	_	_	_	
+248-249	1-40	_	event[12]|event[4]|abstract[15]	new[12]|new[4]|new[15]	nonsal[12]|nonsal[4]|nonsal[15]	cf1[12]|cf1[4]|cf1[15]	_	_	_	
+250-252	1-41	__	event[12]|event[4]|abstract[15]	new[12]|new[4]|new[15]	nonsal[12]|nonsal[4]|nonsal[15]	cf1[12]|cf1[4]|cf1[15]	_	_	_	
+253-256	1-42	___	event[12]|organization[16]|event[4]|abstract[15]	new[12]|new[16]|new[4]|new[15]	nonsal[12]|nonsal[16]|nonsal[4]|nonsal[15]	cf1[12]|cf1[16]|cf1[4]|cf1[15]	_	coref	3-17[37_16]	
+257-265	1-43	________	event[12]|organization[16]|event[4]|abstract[15]	new[12]|new[16]|new[4]|new[15]	nonsal[12]|nonsal[16]|nonsal[4]|nonsal[15]	cf1[12]|cf1[16]|cf1[4]|cf1[15]	_	_	_	
+266-273	1-44	_______	event[12]|organization[16]|event[4]|abstract[15]	new[12]|new[16]|new[4]|new[15]	nonsal[12]|nonsal[16]|nonsal[4]|nonsal[15]	cf1[12]|cf1[16]|cf1[4]|cf1[15]	_	_	_	
+274-275	1-45	_	_	_	_	_	_	_	_	
+
+#Text=____ _ ___ _____ ________ _______ _______ __ _____ _______ __________ __________ ______ ____ _ __________ ________ _________ ___ ___ _ _____ __ ___ ________ ______ ____ ___ ___ __ _ _____ __ ______ ______ ___ ____ ___ __ _ _____ __ _____ _
+276-280	2-1	____	organization[17]	giv[17]	nonsal[17]	cf1[17]	_	coref	2-19[22_17]	
+281-282	2-2	_	organization[17]	giv[17]	nonsal[17]	cf1[17]	_	_	_	
+283-286	2-3	___	abstract[18]|organization[17]	new[18]|giv[17]	nonsal[18]|nonsal[17]	cf1[18]|cf1[17]	_	_	_	
+287-292	2-4	_____	place[19]|organization[17]|abstract[18]	giv[19]|giv[17]|new[18]	nonsal[19]|nonsal[17]|nonsal[18]	cf1[19]|cf1[17]|cf1[18]	_	_	_	
+293-301	2-5	________	place[19]|organization[17]|abstract[18]	giv[19]|giv[17]|new[18]	nonsal[19]|nonsal[17]|nonsal[18]	cf1[19]|cf1[17]|cf1[18]	_	_	_	
+302-309	2-6	_______	abstract[18]|organization[17]	new[18]|giv[17]	nonsal[18]|nonsal[17]	cf1[18]|cf1[17]	_	_	_	
+310-317	2-7	_______	abstract[18]|organization[17]	new[18]|giv[17]	nonsal[18]|nonsal[17]	cf1[18]|cf1[17]	_	_	_	
+318-320	2-8	__	abstract[18]|organization[17]	new[18]|giv[17]	nonsal[18]|nonsal[17]	cf1[18]|cf1[17]	_	_	_	
+321-326	2-9	_____	organization[20]|organization[21]|organization[17]|abstract[18]	new[20]|new[21]|giv[17]|new[18]	nonsal[20]|nonsal[21]|nonsal[17]|nonsal[18]	cf1[20]|cf1[21]|cf1[17]|cf1[18]	_	_	_	
+327-334	2-10	_______	abstract[18]|organization[21]|organization[17]	new[18]|new[21]|giv[17]	nonsal[18]|nonsal[21]|nonsal[17]	cf1[18]|cf1[21]|cf1[17]	_	_	_	
+335-345	2-11	__________	abstract[18]|organization[21]|organization[17]	new[18]|new[21]|giv[17]	nonsal[18]|nonsal[21]|nonsal[17]	cf1[18]|cf1[21]|cf1[17]	_	_	_	
+346-356	2-12	__________	abstract[18]|organization[21]|organization[17]	new[18]|new[21]|giv[17]	nonsal[18]|nonsal[21]|nonsal[17]	cf1[18]|cf1[21]|cf1[17]	_	_	_	
+357-363	2-13	______	abstract[18]|organization[21]|organization[17]	new[18]|new[21]|giv[17]	nonsal[18]|nonsal[21]|nonsal[17]	cf1[18]|cf1[21]|cf1[17]	_	_	_	
+364-368	2-14	____	abstract[18]|organization[21]|organization[17]	new[18]|new[21]|giv[17]	nonsal[18]|nonsal[21]|nonsal[17]	cf1[18]|cf1[21]|cf1[17]	_	_	_	
+369-370	2-15	_	_	_	_	_	_	_	_	
+371-381	2-16	__________	_	_	_	_	_	_	_	
+382-390	2-17	________	_	_	_	_	_	_	_	
+391-400	2-18	_________	_	_	_	_	_	_	_	
+401-404	2-19	___	organization[22]|abstract[23]|abstract[24]	giv[22]|new[23]|new[24]	nonsal[22]|nonsal[23]|nonsal[24]	cf1[22]|cf1[23]|cf1[24]	_	coref	2-29[26_22]	
+405-408	2-20	___	abstract[24]|abstract[23]	new[24]|new[23]	nonsal[24]|nonsal[23]	cf1[24]|cf1[23]	_	_	_	
+409-410	2-21	_	abstract[24]|abstract[23]	new[24]|new[23]	nonsal[24]|nonsal[23]	cf1[24]|cf1[23]	_	_	_	
+411-416	2-22	_____	abstract[24]|abstract[23]	new[24]|new[23]	nonsal[24]|nonsal[23]	cf1[24]|cf1[23]	_	_	_	
+417-419	2-23	__	abstract[24]|abstract[23]	new[24]|new[23]	nonsal[24]|nonsal[23]	cf1[24]|cf1[23]	_	_	_	
+420-423	2-24	___	organization[25]|abstract[24]|abstract[23]	new[25]|new[24]|new[23]	nonsal[25]|nonsal[24]|nonsal[23]	cf1[25]|cf1[24]|cf1[23]	_	_	_	
+424-432	2-25	________	organization[25]|abstract[24]|abstract[23]	new[25]|new[24]|new[23]	nonsal[25]|nonsal[24]|nonsal[23]	cf1[25]|cf1[24]|cf1[23]	_	_	_	
+433-439	2-26	______	organization[25]|abstract[24]|abstract[23]	new[25]|new[24]|new[23]	nonsal[25]|nonsal[24]|nonsal[23]	cf1[25]|cf1[24]|cf1[23]	_	_	_	
+440-444	2-27	____	organization[25]|abstract[24]|abstract[23]	new[25]|new[24]|new[23]	nonsal[25]|nonsal[24]|nonsal[23]	cf1[25]|cf1[24]|cf1[23]	_	_	_	
+445-448	2-28	___	abstract[23]	new[23]	nonsal[23]	cf1[23]	_	_	_	
+449-452	2-29	___	organization[26]|abstract[27]|abstract[23]	giv[26]|new[27]|new[23]	nonsal[26]|nonsal[27]|nonsal[23]	cf1[26]|cf1[27]|cf1[23]	_	coref	2-38[30_26]	
+453-455	2-30	__	abstract[27]|abstract[23]	new[27]|new[23]	nonsal[27]|nonsal[23]	cf1[27]|cf1[23]	_	_	_	
+456-457	2-31	_	abstract[27]|abstract[23]	new[27]|new[23]	nonsal[27]|nonsal[23]	cf1[27]|cf1[23]	_	_	_	
+458-463	2-32	_____	abstract[27]|abstract[23]	new[27]|new[23]	nonsal[27]|nonsal[23]	cf1[27]|cf1[23]	_	_	_	
+464-466	2-33	__	abstract[27]|abstract[23]	new[27]|new[23]	nonsal[27]|nonsal[23]	cf1[27]|cf1[23]	_	_	_	
+467-473	2-34	______	abstract[27]|abstract[23]|organization[28]	new[27]|new[23]|new[28]	nonsal[27]|nonsal[23]|nonsal[28]	cf1[27]|cf1[23]|cf1[28]	_	_	_	
+474-480	2-35	______	abstract[27]|abstract[23]|organization[28]	new[27]|new[23]|new[28]	nonsal[27]|nonsal[23]|nonsal[28]	cf1[27]|cf1[23]|cf1[28]	_	_	_	
+481-484	2-36	___	abstract[27]|abstract[23]|organization[28]	new[27]|new[23]|new[28]	nonsal[27]|nonsal[23]|nonsal[28]	cf1[27]|cf1[23]|cf1[28]	_	_	_	
+485-489	2-37	____	_	_	_	_	_	_	_	
+490-493	2-38	___	abstract[29]|organization[30]	new[29]|giv[30]	nonsal[29]|nonsal[30]	cf1[29]|cf1[30]	_	coref	3-2[32_30]	
+494-496	2-39	__	abstract[29]	new[29]	nonsal[29]	cf1[29]	_	_	_	
+497-498	2-40	_	abstract[29]	new[29]	nonsal[29]	cf1[29]	_	_	_	
+499-504	2-41	_____	abstract[29]	new[29]	nonsal[29]	cf1[29]	_	_	_	
+505-507	2-42	__	abstract[29]	new[29]	nonsal[29]	cf1[29]	_	_	_	
+508-513	2-43	_____	abstract[29]|organization[31]	new[29]|giv[31]	nonsal[29]|nonsal[31]	cf1[29]|cf1[31]	_	coref	3-9[34_31]	
+514-515	2-44	_	_	_	_	_	_	_	_	
+
+#Text=___ ____ __ _____ _____ _____ ____ _____ _____ __ _____ ____________ _____ __ _ __ ___ ________ _______ _
+516-519	3-1	___	_	_	_	_	_	_	_	
+520-524	3-2	____	organization[32]|abstract[33]	giv[32]|new[33]	nonsal[32]|nonsal[33]	cf1[32]|cf1[33]	_	coref|coref	5-5[45_32]|4-5[40_33]	
+525-527	3-3	__	organization[32]|abstract[33]	giv[32]|new[33]	nonsal[32]|nonsal[33]	cf1[32]|cf1[33]	_	_	_	
+528-533	3-4	_____	abstract[33]	new[33]	nonsal[33]	cf1[33]	_	_	_	
+534-539	3-5	_____	abstract[33]	new[33]	nonsal[33]	cf1[33]	_	_	_	
+540-545	3-6	_____	_	_	_	_	_	_	_	
+546-550	3-7	____	_	_	_	_	_	_	_	
+551-556	3-8	_____	_	_	_	_	_	_	_	
+557-562	3-9	_____	organization[34]|person[35]	giv[34]|new[35]	nonsal[34]|nonsal[35]	cf1[34]|cf1[35]	_	coref	4-1[39_34]	
+563-565	3-10	__	organization[34]|person[35]	giv[34]|new[35]	nonsal[34]|nonsal[35]	cf1[34]|cf1[35]	_	_	_	
+566-571	3-11	_____	person[35]	new[35]	nonsal[35]	cf1[35]	_	_	_	
+572-584	3-12	____________	person[35]	new[35]	nonsal[35]	cf1[35]	_	_	_	
+585-590	3-13	_____	abstract[36]	new[36]	nonsal[36]	cf1[36]	_	_	_	
+591-593	3-14	__	abstract[36]	new[36]	nonsal[36]	cf1[36]	_	_	_	
+594-595	3-15	_	abstract[36]	new[36]	nonsal[36]	cf1[36]	_	_	_	
+596-598	3-16	__	abstract[36]	new[36]	nonsal[36]	cf1[36]	_	_	_	
+599-602	3-17	___	organization[37]|abstract[36]	giv[37]|new[36]	nonsal[37]|nonsal[36]	cf1[37]|cf1[36]	_	coref	5-11[47_37]	
+603-611	3-18	________	organization[37]|abstract[36]	giv[37]|new[36]	nonsal[37]|nonsal[36]	cf1[37]|cf1[36]	_	_	_	
+612-619	3-19	_______	organization[37]|abstract[36]	giv[37]|new[36]	nonsal[37]|nonsal[36]	cf1[37]|cf1[36]	_	_	_	
+620-621	3-20	_	_	_	_	_	_	_	_	
+
+#Text=_____ __ _________ ________ ____ _____ _ ________ ____ ____ ____ ________ ___ ______ ________ _
+622-627	4-1	_____	person[38]|organization[39]	giv[38]|giv[39]	nonsal[38]|nonsal[39]	cf1[38]|cf1[39]	_	coref|coref	4-9[41_38]|6-1[48_39]	
+628-630	4-2	__	person[38]|organization[39]	giv[38]|giv[39]	nonsal[38]|nonsal[39]	cf1[38]|cf1[39]	_	_	_	
+631-640	4-3	_________	person[38]	giv[38]	nonsal[38]	cf1[38]	_	_	_	
+641-649	4-4	________	_	_	_	_	_	_	_	
+650-654	4-5	____	abstract[40]	giv[40]	nonsal[40]	cf1[40]	_	_	_	
+655-660	4-6	_____	abstract[40]	giv[40]	nonsal[40]	cf1[40]	_	_	_	
+661-662	4-7	_	_	_	_	_	_	_	_	
+663-671	4-8	________	_	_	_	_	_	_	_	
+672-676	4-9	____	person[41]	giv[41]	nonsal[41]	cf1[41]	_	coref	4-11[42_41]	
+677-681	4-10	____	_	_	_	_	_	_	_	
+682-686	4-11	____	person[42]	giv[42]	nonsal[42]	cf1[42]	_	_	_	
+687-695	4-12	________	_	_	_	_	_	_	_	
+696-699	4-13	___	abstract[43]	new[43]	nonsal[43]	cf1[43]	_	_	_	
+700-706	4-14	______	abstract[43]	new[43]	nonsal[43]	cf1[43]	_	_	_	
+707-715	4-15	________	abstract[43]	new[43]	nonsal[43]	cf1[43]	_	_	_	
+716-717	4-16	_	_	_	_	_	_	_	_	
+
+#Text=_____ ___ _________ _ ____ ____ ___ ____ _ __ ___ ________ _______ _
+718-723	5-1	_____	_	_	_	_	_	_	_	
+724-727	5-2	___	event[44]	giv[44]	nonsal[44]	cf1[44]	_	_	_	
+728-737	5-3	_________	event[44]	giv[44]	nonsal[44]	cf1[44]	_	_	_	
+738-739	5-4	_	_	_	_	_	_	_	_	
+740-744	5-5	____	organization[45]	giv[45]	nonsal[45]	cf1[45]	_	_	_	
+745-749	5-6	____	_	_	_	_	_	_	_	
+750-753	5-7	___	_	_	_	_	_	_	_	
+754-758	5-8	____	abstract[46]	new[46]	nonsal[46]	cf1[46]	_	_	_	
+759-760	5-9	_	abstract[46]	new[46]	nonsal[46]	cf1[46]	_	_	_	
+761-763	5-10	__	abstract[46]	new[46]	nonsal[46]	cf1[46]	_	_	_	
+764-767	5-11	___	abstract[46]|organization[47]	new[46]|giv[47]	nonsal[46]|nonsal[47]	cf1[46]|cf1[47]	_	coref	6-11[51_47]	
+768-776	5-12	________	abstract[46]|organization[47]	new[46]|giv[47]	nonsal[46]|nonsal[47]	cf1[46]|cf1[47]	_	_	_	
+777-784	5-13	_______	abstract[46]|organization[47]	new[46]|giv[47]	nonsal[46]|nonsal[47]	cf1[46]|cf1[47]	_	_	_	
+785-786	5-14	_	_	_	_	_	_	_	_	
+
+#Text=_____ __ _______ __________ ____ _________ _____ ____ _ __ ___ ________ _______ _
+787-792	6-1	_____	organization[48]|organization[49]	giv[48]|new[49]	nonsal[48]|nonsal[49]	cf1[48]|cf1[49]	_	coref	7-12[57_48]	
+793-795	6-2	__	organization[48]|organization[49]	giv[48]|new[49]	nonsal[48]|nonsal[49]	cf1[48]|cf1[49]	_	_	_	
+796-803	6-3	_______	organization[49]	new[49]	nonsal[49]	cf1[49]	_	_	_	
+804-814	6-4	__________	organization[49]	new[49]	nonsal[49]	cf1[49]	_	_	_	
+815-819	6-5	____	_	_	_	_	_	_	_	
+820-829	6-6	_________	_	_	_	_	_	_	_	
+830-835	6-7	_____	abstract[50]	new[50]	nonsal[50]	cf1[50]	_	_	_	
+836-840	6-8	____	abstract[50]	new[50]	nonsal[50]	cf1[50]	_	_	_	
+841-842	6-9	_	abstract[50]	new[50]	nonsal[50]	cf1[50]	_	_	_	
+843-845	6-10	__	abstract[50]	new[50]	nonsal[50]	cf1[50]	_	_	_	
+846-849	6-11	___	organization[51]|abstract[50]	giv[51]|new[50]	nonsal[51]|nonsal[50]	cf1[51]|cf1[50]	_	_	_	
+850-858	6-12	________	organization[51]|abstract[50]	giv[51]|new[50]	nonsal[51]|nonsal[50]	cf1[51]|cf1[50]	_	_	_	
+859-866	6-13	_______	organization[51]|abstract[50]	giv[51]|new[50]	nonsal[51]|nonsal[50]	cf1[51]|cf1[50]	_	_	_	
+867-868	6-14	_	_	_	_	_	_	_	_	
+
+#Text=___ ___________ __ _______ __ _ __________ _________ ___ ________ __ _____ ____________ _
+869-872	7-1	___	event[52]	giv[52]	nonsal[52]	cf1[52]	_	coref	8-7[61_52]	
+873-884	7-2	___________	event[52]	giv[52]	nonsal[52]	cf1[52]	_	_	_	
+885-887	7-3	__	_	_	_	_	_	_	_	
+888-895	7-4	_______	_	_	_	_	_	_	_	
+896-898	7-5	__	_	_	_	_	_	_	_	
+899-900	7-6	_	abstract[53]|event[54]	new[53]|new[54]	nonsal[53]|nonsal[54]	cf1[53]|cf1[54]	_	_	_	
+901-911	7-7	__________	abstract[53]|event[54]	new[53]|new[54]	nonsal[53]|nonsal[54]	cf1[53]|cf1[54]	_	_	_	
+912-921	7-8	_________	abstract[53]|event[54]	new[53]|new[54]	nonsal[53]|nonsal[54]	cf1[53]|cf1[54]	_	_	_	
+922-925	7-9	___	abstract[53]	new[53]	nonsal[53]	cf1[53]	_	_	_	
+926-934	7-10	________	abstract[55]|abstract[53]	new[55]|new[53]	nonsal[55]|nonsal[53]	cf1[55]|cf1[53]	_	_	_	
+935-937	7-11	__	abstract[55]|abstract[53]|event[56]	new[55]|new[53]|new[56]	nonsal[55]|nonsal[53]|nonsal[56]	cf1[55]|cf1[53]|cf1[56]	_	_	_	
+938-943	7-12	_____	event[56]|organization[57]|abstract[55]|person[58]|abstract[53]	new[56]|giv[57]|new[55]|new[58]|new[53]	nonsal[56]|nonsal[57]|nonsal[55]|nonsal[58]|nonsal[53]	cf1[56]|cf1[57]|cf1[55]|cf1[58]|cf1[53]	_	coref	8-1[59_57]	
+944-956	7-13	____________	abstract[55]|abstract[53]|event[56]|person[58]	new[55]|new[53]|new[56]|new[58]	nonsal[55]|nonsal[53]|nonsal[56]|nonsal[58]	cf1[55]|cf1[53]|cf1[56]|cf1[58]	_	_	_	
+957-958	7-14	_	_	_	_	_	_	_	_	
+
+#Text=_____ ____ __ _______ __ ________ ___ ___________ _____ ____ ____ _
+959-964	8-1	_____	organization[59]	giv[59]	nonsal[59]	cf1[59]	_	coref	8-3[60_59]	
+965-969	8-2	____	_	_	_	_	_	_	_	
+970-972	8-3	__	organization[60]	giv[60]	nonsal[60]	cf1[60]	_	_	_	
+973-980	8-4	_______	_	_	_	_	_	_	_	
+981-983	8-5	__	_	_	_	_	_	_	_	
+984-992	8-6	________	_	_	_	_	_	_	_	
+993-996	8-7	___	event[61]	giv[61]	nonsal[61]	cf1[61]	_	_	_	
+997-1008	8-8	___________	event[61]	giv[61]	nonsal[61]	cf1[61]	_	_	_	
+1009-1014	8-9	_____	time[62]	new[62]	nonsal[62]	cf1[62]	_	_	_	
+1015-1019	8-10	____	time[62]	new[62]	nonsal[62]	cf1[62]	_	_	_	
+1020-1024	8-11	____	time[62]	new[62]	nonsal[62]	cf1[62]	_	_	_	
+1025-1026	8-12	_	_	_	_	_	_	_	_	
